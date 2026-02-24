@@ -1,0 +1,1001 @@
+Transaction_ID,Date,Customer_Age,Gender,Location,Category,Cost_Price,Quantity,Ad_Spent,Sale_Price
+5001,1/01/2023,56,Non-Binary,Phoenix,Electronics,167.95,6,26.44,301.25
+5002,2/01/2023,46,Female,New York,Beauty,406.84,2,15.17,705.34
+5003,3/01/2023,32,Non-Binary,New York,Electronics,134.77,7,33.82,191.76
+5004,4/01/2023,60,Female,Los Angeles,Home Decor,343.94,3,49.05,453
+5005,5/01/2023,25,Female,Chicago,Fitness,382.51,3,32.16,571.33
+5006,6/01/2023,38,Male,Chicago,Electronics,301.86,5,21.1,496.56
+5007,7/01/2023,56,Male,Phoenix,Electronics,241.07,3,34.15,360.53
+5008,8/01/2023,36,Non-Binary,Philadelphia,Fitness,211.8,2,10.53,315.56
+5009,9/01/2023,40,Male,Phoenix,Books,180.95,9,44.99,308.15
+5010,10/01/2023,28,Female,Houston,Electronics,465.47,2,27.64,659.5
+5011,11/01/2023,28,Non-Binary,New York,Books,417,2,25.22,715.52
+5012,12/01/2023,41,Male,Philadelphia,Beauty,482.86,8,31.36,697.29
+5013,13/01/2023,53,Male,Phoenix,Books,70.91,9,33.12,99.06
+5014,14/01/2023,57,Male,Houston,Beauty,368.13,7,8.23,542.03
+5015,15/01/2023,41,Male,New York,Fitness,469.79,3,35.72,778.66
+5016,16/01/2023,20,Female,Houston,Home Decor,98.8,9,15.89,126.03
+5017,17/01/2023,39,Non-Binary,New York,Beauty,42.58,3,37.13,56.11
+5018,18/01/2023,19,Non-Binary,Houston,Electronics,373.15,5,42.01,660.8
+5019,19/01/2023,41,Female,Houston,Beauty,291.49,9,41.18,380.48
+5020,20/01/2023,61,Male,Philadelphia,Electronics,422.5,3,29.86,650.92
+5021,21/01/2023,47,Female,Phoenix,Beauty,78.49,7,28.41,121.47
+5022,22/01/2023,55,Female,Houston,Beauty,399.68,1,11.43,597.03
+5023,23/01/2023,19,Male,Phoenix,Beauty,108.8,4,39.89,172.65
+5024,24/01/2023,38,Male,Houston,Books,90.19,4,17.21,120.66
+5025,25/01/2023,50,Non-Binary,Houston,Books,90.49,7,27.35,138.59
+5026,26/01/2023,29,Female,Houston,Electronics,409.14,8,17.79,582.33
+5027,27/01/2023,39,Female,New York,Home Decor,335.95,1,11.02,536.51
+5028,28/01/2023,61,Female,Philadelphia,Books,266.3,5,33.33,342.12
+5029,29/01/2023,42,Female,Phoenix,Fitness,185.83,7,7.44,286.65
+5030,30/01/2023,44,Female,New York,Beauty,439.83,4,38.69,576.69
+5031,31/01/2023,59,Female,Philadelphia,Home Decor,202.3,4,19.29,276.58
+5032,1/02/2023,45,Non-Binary,New York,Electronics,410.13,4,5.01,545.98
+5033,2/02/2023,33,Non-Binary,Houston,Home Decor,225.18,6,28,294.92
+5034,3/02/2023,32,Male,New York,Fitness,194.7,7,7.11,330.1
+5035,4/02/2023,64,Non-Binary,Chicago,Home Decor,236.71,2,17.43,324.63
+5036,5/02/2023,61,Female,Phoenix,Electronics,157.68,5,36.81,276.93
+5037,6/02/2023,20,Male,Phoenix,Home Decor,376.33,4,7.82,670.6
+5038,7/02/2023,54,Non-Binary,New York,Beauty,256.33,3,42.77,395.45
+5039,8/02/2023,24,Female,Houston,Home Decor,123.78,7,5.17,159.16
+5040,9/02/2023,38,Male,Phoenix,Home Decor,450.79,6,16.11,642.25
+5041,10/02/2023,26,Male,New York,Beauty,198.11,7,38.34,332.56
+5042,11/02/2023,56,Non-Binary,Chicago,Books,276.34,5,19.23,392.52
+5043,12/02/2023,35,Non-Binary,Philadelphia,Beauty,454.17,6,9.59,568.72
+5044,13/02/2023,21,Female,New York,Fitness,315.88,5,21.21,484.58
+5045,14/02/2023,42,Non-Binary,New York,Electronics,67.28,7,17.17,114.85
+5046,15/02/2023,31,Non-Binary,Philadelphia,Fitness,470.52,2,42.92,789.32
+5047,16/02/2023,26,Female,Phoenix,Fitness,317.58,5,19.1,414.47
+5048,17/02/2023,43,Male,New York,Electronics,174.1,6,40.5,279.2
+5049,18/02/2023,19,Female,Philadelphia,Electronics,78.24,6,45.13,104.24
+5050,19/02/2023,37,Non-Binary,Los Angeles,Electronics,399.07,5,24.52,531.13
+5051,20/02/2023,45,Female,New York,Beauty,313.84,7,45.95,541.2
+5052,21/02/2023,64,Non-Binary,Philadelphia,Fitness,271.4,8,21.98,366.34
+5053,22/02/2023,24,Non-Binary,Philadelphia,Home Decor,448.01,7,48.38,608.37
+5054,23/02/2023,61,Male,Los Angeles,Home Decor,396.41,5,9.02,475.85
+5055,24/02/2023,25,Male,Philadelphia,Fitness,84.32,1,35.92,145.23
+5056,25/02/2023,64,Female,Phoenix,Books,162.74,5,27.22,272.68
+5057,26/02/2023,52,Female,Phoenix,Electronics,131.76,2,22.44,207.71
+5058,27/02/2023,31,Male,New York,Books,374.53,5,33.47,618.03
+5059,28/02/2023,34,Female,Houston,Fitness,26.43,5,36.67,34.13
+5060,1/03/2023,53,Female,Chicago,Home Decor,289.25,2,5.2,426.64
+5061,2/03/2023,57,Non-Binary,Houston,Books,383.6,5,12.51,541.16
+5062,3/03/2023,21,Non-Binary,New York,Beauty,439.62,4,37.09,552.28
+5063,4/03/2023,19,Male,Philadelphia,Books,177.62,1,34.99,264.95
+5064,5/03/2023,23,Male,New York,Beauty,412.42,3,48.47,722.74
+5065,6/03/2023,59,Non-Binary,Chicago,Electronics,64.21,1,39.25,78.6
+5066,7/03/2023,21,Female,Los Angeles,Books,424.76,5,47.78,583.99
+5067,8/03/2023,46,Non-Binary,Chicago,Books,72.47,4,36.61,95.99
+5068,9/03/2023,35,Non-Binary,New York,Home Decor,204.67,7,18.41,274.85
+5069,10/03/2023,43,Male,New York,Books,400.67,5,9.74,699.19
+5070,11/03/2023,61,Male,New York,Beauty,83.46,4,40.18,123.59
+5071,12/03/2023,51,Female,Chicago,Books,122.33,2,33.99,181.02
+5072,13/03/2023,27,Non-Binary,Houston,Books,363.9,4,7.17,602.74
+5073,14/03/2023,53,Non-Binary,New York,Books,362.82,2,21.2,469.02
+5074,15/03/2023,31,Male,Los Angeles,Home Decor,324.16,8,48.06,483.76
+5075,16/03/2023,48,Female,Houston,Books,350.03,3,27.52,510.34
+5076,17/03/2023,32,Non-Binary,Los Angeles,Fitness,275.93,9,24.47,429.94
+5077,18/03/2023,25,Female,Los Angeles,Electronics,133.38,4,25.6,240.05
+5078,19/03/2023,31,Female,Chicago,Fitness,179.39,6,14.4,298.09
+5079,20/03/2023,40,Female,Chicago,Books,98.98,5,21.59,142.4
+5080,21/03/2023,57,Non-Binary,Los Angeles,Books,455.14,1,21.64,772.16
+5081,22/03/2023,38,Male,Houston,Books,295.86,9,7.36,385.34
+5082,23/03/2023,33,Non-Binary,New York,Beauty,206.42,1,39.54,251.48
+5083,24/03/2023,62,Female,Houston,Books,236.38,8,23.74,312.65
+5084,25/03/2023,35,Male,Phoenix,Electronics,474.17,9,42,665.85
+5085,26/03/2023,64,Non-Binary,Philadelphia,Fitness,85.14,9,43.27,128.25
+5086,27/03/2023,41,Female,Houston,Books,297.25,1,14.54,466.41
+5087,28/03/2023,43,Non-Binary,Houston,Beauty,257.89,2,34.58,450.37
+5088,29/03/2023,42,Male,Los Angeles,Books,309.61,1,26.25,466.25
+5089,30/03/2023,62,Female,Philadelphia,Home Decor,18.87,2,44.61,28.32
+5090,31/03/2023,58,Male,Chicago,Beauty,437.34,8,14.71,537.99
+5091,1/04/2023,46,Non-Binary,Phoenix,Fitness,466.74,5,35.5,569.86
+5092,2/04/2023,32,Female,Chicago,Books,286.92,7,32.35,439.19
+5093,3/04/2023,62,Male,Los Angeles,Beauty,351.36,2,18.29,514.01
+5094,4/04/2023,18,Female,Chicago,Books,462.02,8,11.15,787.05
+5095,5/04/2023,42,Male,Los Angeles,Home Decor,356.55,6,34.32,462.23
+5096,6/04/2023,24,Female,Houston,Home Decor,84.74,8,38.24,102.96
+5097,7/04/2023,26,Male,New York,Fitness,292.38,1,19.2,429.63
+5098,8/04/2023,41,Male,Chicago,Books,307.29,1,34.02,412.53
+5099,9/04/2023,18,Non-Binary,Philadelphia,Books,217.82,7,22.78,267.87
+5100,10/04/2023,61,Male,New York,Electronics,370.86,8,37.09,606.27
+5101,11/04/2023,25,Female,Philadelphia,Books,467.84,3,13.96,592.73
+5102,12/04/2023,41,Female,Philadelphia,Electronics,463.53,5,45.06,725.42
+5103,13/04/2023,28,Female,Philadelphia,Beauty,230.91,1,17.93,316.03
+5104,14/04/2023,34,Non-Binary,New York,Fitness,65.49,7,21.55,85.41
+5105,15/04/2023,25,Female,New York,Beauty,492.57,5,7.61,703.32
+5106,16/04/2023,52,Male,Los Angeles,Fitness,421.06,8,10.02,707.75
+5107,17/04/2023,52,Non-Binary,New York,Home Decor,71.08,8,28.21,102.02
+5108,18/04/2023,50,Male,Los Angeles,Beauty,461.21,9,17.04,761.21
+5109,19/04/2023,22,Female,Phoenix,Electronics,436.25,7,42.6,556.35
+5110,20/04/2023,59,Male,Philadelphia,Fitness,264.23,1,5.66,439.59
+5111,21/04/2023,56,Non-Binary,Los Angeles,Electronics,299.72,3,22.06,402.27
+5112,22/04/2023,58,Non-Binary,Phoenix,Home Decor,205.51,8,20.18,330.14
+5113,23/04/2023,45,Female,Los Angeles,Home Decor,36.83,3,5.87,56.7
+5114,24/04/2023,24,Non-Binary,Philadelphia,Fitness,174.25,8,10.6,306.24
+5115,25/04/2023,26,Male,Los Angeles,Books,403.4,1,23.61,577.83
+5116,26/04/2023,25,Male,Los Angeles,Electronics,12.27,5,27.18,15.21
+5117,27/04/2023,29,Non-Binary,Philadelphia,Fitness,173.41,4,23.19,210.09
+5118,28/04/2023,51,Male,Chicago,Fitness,205.1,5,28.89,347.87
+5119,29/04/2023,50,Non-Binary,Chicago,Home Decor,273.32,8,31.78,414.04
+5120,30/04/2023,40,Female,Philadelphia,Home Decor,460.73,4,5.45,767.18
+5121,1/05/2023,41,Non-Binary,Phoenix,Beauty,179.71,4,25.88,240.93
+5122,2/05/2023,54,Female,Chicago,Home Decor,180.01,3,48.36,253.28
+5123,3/05/2023,52,Male,New York,Fitness,371.38,7,28.36,452.36
+5124,4/05/2023,61,Female,Los Angeles,Books,231.59,3,35.49,411.51
+5125,5/05/2023,57,Male,Houston,Books,120.06,3,19.03,192.18
+5126,6/05/2023,39,Male,Philadelphia,Beauty,231.7,5,39.83,407.77
+5127,7/05/2023,44,Non-Binary,Houston,Electronics,79.02,5,39.78,107.41
+5128,8/05/2023,52,Male,New York,Fitness,96.43,6,28.46,151.09
+5129,9/05/2023,18,Female,Chicago,Fitness,254.2,8,48.92,408.52
+5130,10/05/2023,52,Non-Binary,Los Angeles,Books,215.27,6,10.65,299.34
+5131,11/05/2023,54,Female,Los Angeles,Electronics,458.27,1,5.76,783.12
+5132,12/05/2023,64,Male,Chicago,Beauty,187.57,8,39.66,331.68
+5133,13/05/2023,31,Non-Binary,Phoenix,Home Decor,294.49,8,41.32,509.74
+5134,14/05/2023,20,Non-Binary,Houston,Fitness,319.81,9,10.41,525.59
+5135,15/05/2023,18,Non-Binary,Phoenix,Electronics,16.42,9,16.95,22.44
+5136,16/05/2023,22,Non-Binary,Philadelphia,Books,335.13,2,5.79,458.78
+5137,17/05/2023,43,Non-Binary,New York,Fitness,97.24,2,18.2,172.89
+5138,18/05/2023,31,Male,Phoenix,Books,480.92,3,39.79,580.07
+5139,19/05/2023,56,Female,New York,Beauty,82.84,1,28.31,135
+5140,20/05/2023,44,Non-Binary,New York,Home Decor,213.17,4,20.66,346.13
+5141,21/05/2023,26,Female,New York,Fitness,51.82,4,21.73,81.54
+5142,22/05/2023,32,Female,Houston,Home Decor,498.47,9,5.06,894.29
+5143,23/05/2023,32,Female,Philadelphia,Electronics,256.08,9,18.49,355.22
+5144,24/05/2023,43,Male,Philadelphia,Beauty,301.74,9,34.09,423.64
+5145,25/05/2023,59,Non-Binary,Los Angeles,Beauty,42.87,7,48.84,53.47
+5146,26/05/2023,30,Non-Binary,Philadelphia,Fitness,377.48,2,43.12,553.26
+5147,27/05/2023,49,Female,Phoenix,Electronics,112.85,5,6.06,153.1
+5148,28/05/2023,56,Non-Binary,Chicago,Books,450.05,4,45.44,632.78
+5149,29/05/2023,49,Female,Houston,Electronics,110.52,8,40.24,187.97
+5150,30/05/2023,21,Male,Chicago,Beauty,103.44,2,40.12,182.19
+5151,31/05/2023,47,Non-Binary,Houston,Fitness,27.91,6,25.61,36.6
+5152,1/06/2023,54,Male,Phoenix,Fitness,241.31,5,22.91,343.51
+5153,2/06/2023,40,Non-Binary,Los Angeles,Electronics,286.77,2,18.63,503.91
+5154,3/06/2023,56,Female,Philadelphia,Books,42.2,1,7.96,52.2
+5155,4/06/2023,62,Non-Binary,Chicago,Fitness,390.01,8,15.27,489.62
+5156,5/06/2023,32,Non-Binary,New York,Books,232.11,2,16.1,301.2
+5157,6/06/2023,60,Non-Binary,Los Angeles,Fitness,266.95,7,26.78,415.68
+5158,7/06/2023,46,Non-Binary,New York,Books,225.97,9,38.63,291.57
+5159,8/06/2023,53,Non-Binary,Chicago,Home Decor,206.37,9,26.32,367.51
+5160,9/06/2023,30,Non-Binary,Chicago,Fitness,284.22,8,7.6,417.24
+5161,10/06/2023,49,Male,Los Angeles,Beauty,86.07,9,48.1,129.18
+5162,11/06/2023,24,Non-Binary,Los Angeles,Electronics,99.14,2,47.42,133.64
+5163,12/06/2023,39,Non-Binary,Los Angeles,Fitness,432.27,6,40.33,640.87
+5164,13/06/2023,45,Non-Binary,Los Angeles,Electronics,473.6,4,49.61,756.41
+5165,14/06/2023,19,Male,Phoenix,Beauty,192.92,4,29.5,318.45
+5166,15/06/2023,59,Male,Phoenix,Electronics,142.66,5,48.32,235.72
+5167,16/06/2023,62,Male,Phoenix,Electronics,325.56,3,8.4,503.55
+5168,17/06/2023,23,Female,Houston,Fitness,210.28,1,21.46,366.44
+5169,18/06/2023,45,Female,New York,Electronics,22.44,8,15.14,37.93
+5170,19/06/2023,45,Female,Los Angeles,Home Decor,86.51,5,13.81,143.11
+5171,20/06/2023,61,Male,New York,Beauty,360.83,3,11.34,445.03
+5172,21/06/2023,61,Male,Philadelphia,Home Decor,332.87,7,33.01,400.82
+5173,22/06/2023,37,Female,Chicago,Books,23.28,7,40.16,30.9
+5174,23/06/2023,47,Non-Binary,Houston,Fitness,118.77,1,31.02,189.81
+5175,24/06/2023,28,Male,New York,Home Decor,123.23,9,11.61,178.28
+5176,25/06/2023,45,Non-Binary,Los Angeles,Books,339.23,2,41.5,488.98
+5177,26/06/2023,42,Male,Philadelphia,Fitness,19.66,5,33.62,34.03
+5178,27/06/2023,56,Female,Los Angeles,Books,61.01,5,22.47,105.99
+5179,28/06/2023,50,Female,New York,Books,401.96,8,35.34,701.62
+5180,29/06/2023,18,Female,Los Angeles,Beauty,97.49,8,16.7,135.35
+5181,30/06/2023,44,Female,Philadelphia,Fitness,329.85,7,20.53,532.59
+5182,1/07/2023,30,Female,Philadelphia,Fitness,126.71,7,46.29,172.7
+5183,2/07/2023,58,Non-Binary,Chicago,Electronics,58.73,6,18.07,77.19
+5184,3/07/2023,20,Non-Binary,Philadelphia,Beauty,129.15,6,26.15,169.29
+5185,4/07/2023,56,Female,Phoenix,Books,363.91,9,45.06,511.39
+5186,5/07/2023,23,Male,Chicago,Books,429.29,6,36.85,625.89
+5187,6/07/2023,25,Female,Houston,Home Decor,416.81,2,7.8,707.98
+5188,7/07/2023,44,Non-Binary,Houston,Home Decor,204.62,2,11.63,260.26
+5189,8/07/2023,26,Male,Phoenix,Fitness,337.36,5,5.35,553.59
+5190,9/07/2023,54,Non-Binary,Phoenix,Beauty,110.44,4,33.39,167.74
+5191,10/07/2023,50,Male,Phoenix,Books,153.64,2,25.15,210.91
+5192,11/07/2023,59,Non-Binary,Phoenix,Fitness,449.2,3,11.04,671.86
+5193,12/07/2023,61,Non-Binary,Phoenix,Electronics,16.37,7,48.11,22.59
+5194,13/07/2023,41,Non-Binary,Philadelphia,Electronics,51.9,8,28.83,80.84
+5195,14/07/2023,32,Non-Binary,Phoenix,Electronics,111.86,6,15.89,163.35
+5196,15/07/2023,49,Non-Binary,Chicago,Books,23,5,27.53,29.87
+5197,16/07/2023,49,Female,Phoenix,Electronics,98.9,1,35.58,125.6
+5198,17/07/2023,41,Male,Los Angeles,Fitness,295.69,8,8.43,451.82
+5199,18/07/2023,58,Non-Binary,Philadelphia,Books,216.5,3,17.36,377.02
+5200,19/07/2023,29,Non-Binary,Phoenix,Beauty,447.41,6,41.31,629.23
+5201,20/07/2023,56,Female,Phoenix,Fitness,410.55,3,25.68,673.22
+5202,21/07/2023,19,Male,Philadelphia,Beauty,177.49,7,29.6,283.13
+5203,22/07/2023,20,Male,Chicago,Fitness,137.12,7,24.48,241.18
+5204,23/07/2023,54,Male,Phoenix,Beauty,196.05,9,6.98,331.83
+5205,24/07/2023,34,Female,Houston,Fitness,299.24,5,12.46,460.82
+5206,25/07/2023,19,Male,New York,Home Decor,141.35,8,25.05,225.34
+5207,26/07/2023,19,Male,Philadelphia,Electronics,315.83,8,14.41,549.24
+5208,27/07/2023,45,Male,Phoenix,Fitness,210.61,1,7.25,303.22
+5209,28/07/2023,40,Male,Houston,Beauty,280.5,5,42.96,391.6
+5210,29/07/2023,54,Male,Philadelphia,Fitness,223.7,3,49.15,269.89
+5211,30/07/2023,49,Male,Philadelphia,Beauty,154.29,1,40.69,261.67
+5212,31/07/2023,50,Male,Phoenix,Books,474.74,4,43.42,797.84
+5213,1/08/2023,18,Female,Phoenix,Beauty,384.17,8,15.89,485.08
+5214,2/08/2023,36,Non-Binary,Philadelphia,Books,78.66,3,48.23,121.62
+5215,3/08/2023,19,Non-Binary,Los Angeles,Fitness,435.55,2,13.86,643.91
+5216,4/08/2023,61,Non-Binary,Phoenix,Books,248.84,9,47.81,316.33
+5217,5/08/2023,43,Male,Phoenix,Books,448.33,5,49.77,801.77
+5218,6/08/2023,49,Non-Binary,Los Angeles,Fitness,401.93,7,37.03,534.09
+5219,7/08/2023,23,Non-Binary,Los Angeles,Home Decor,218.35,2,49.15,270.83
+5220,8/08/2023,49,Non-Binary,Los Angeles,Books,21.01,9,30.63,32.71
+5221,9/08/2023,21,Non-Binary,Los Angeles,Fitness,141.65,9,16.68,232.78
+5222,10/08/2023,28,Male,New York,Home Decor,275.4,4,24.66,335.84
+5223,11/08/2023,34,Male,Philadelphia,Home Decor,320.4,4,31.71,511.11
+5224,12/08/2023,55,Male,Phoenix,Fitness,136.36,6,8.29,207.18
+5225,13/08/2023,41,Non-Binary,Phoenix,Fitness,78.28,6,33.01,98.79
+5226,14/08/2023,22,Female,New York,Books,419.12,1,49.15,546.33
+5227,15/08/2023,51,Male,Los Angeles,Electronics,492.36,9,13.55,758.62
+5228,16/08/2023,23,Non-Binary,Los Angeles,Electronics,267.59,2,40.67,368.69
+5229,17/08/2023,39,Male,Phoenix,Home Decor,94.12,5,45.86,165.93
+5230,18/08/2023,28,Female,Philadelphia,Books,143.43,9,47.47,242.58
+5231,19/08/2023,33,Male,New York,Books,19.01,4,48.21,34.03
+5232,20/08/2023,50,Female,Phoenix,Fitness,458.01,3,28.47,620.97
+5233,21/08/2023,26,Non-Binary,Chicago,Books,67.7,7,48.98,120.63
+5234,22/08/2023,23,Non-Binary,Phoenix,Beauty,292.49,6,39.08,426.67
+5235,23/08/2023,33,Female,Los Angeles,Fitness,144.29,8,12.28,203.23
+5236,24/08/2023,46,Non-Binary,Philadelphia,Books,281.55,3,26.46,346.37
+5237,25/08/2023,20,Non-Binary,Los Angeles,Electronics,329.2,5,37.32,405.46
+5238,26/08/2023,37,Male,Phoenix,Electronics,416.57,4,16.13,672.85
+5239,27/08/2023,53,Non-Binary,New York,Home Decor,111.15,4,33.83,163.92
+5240,28/08/2023,36,Female,Los Angeles,Books,15.39,4,35,20.56
+5241,29/08/2023,43,Male,New York,Books,77.07,8,12.32,120.88
+5242,30/08/2023,20,Male,Houston,Beauty,451.01,6,30.43,609.64
+5243,31/08/2023,36,Non-Binary,Chicago,Beauty,438.21,3,39.72,677.73
+5244,1/09/2023,37,Non-Binary,Philadelphia,Beauty,302.73,5,27.45,428.52
+5245,2/09/2023,49,Male,New York,Beauty,304.25,6,5.54,515.44
+5246,3/09/2023,24,Female,Phoenix,Electronics,335.87,5,5.41,568.43
+5247,4/09/2023,58,Non-Binary,Phoenix,Home Decor,95.93,6,21.07,142.59
+5248,5/09/2023,50,Male,Chicago,Beauty,458.06,8,46.68,646.09
+5249,6/09/2023,57,Female,Phoenix,Beauty,215.2,7,15.29,305.05
+5250,7/09/2023,56,Female,Houston,Home Decor,197.74,5,33.55,332.88
+5251,8/09/2023,35,Non-Binary,Philadelphia,Beauty,264.27,6,14.99,369.16
+5252,9/09/2023,57,Non-Binary,Los Angeles,Electronics,33.01,4,19.48,43.75
+5253,10/09/2023,18,Female,Chicago,Books,91.48,9,43.16,114.42
+5254,11/09/2023,28,Non-Binary,Los Angeles,Electronics,371.64,4,37.8,550.03
+5255,12/09/2023,45,Non-Binary,New York,Books,50.57,1,9.29,75.31
+5256,13/09/2023,42,Female,New York,Fitness,305.54,7,24.29,520.81
+5257,14/09/2023,40,Male,Phoenix,Beauty,130.22,7,6.31,173.55
+5258,15/09/2023,48,Male,Chicago,Beauty,200.75,4,26.64,286.79
+5259,16/09/2023,47,Male,Chicago,Beauty,151.46,3,34.81,255.22
+5260,17/09/2023,59,Non-Binary,Houston,Books,184.28,8,10.33,312.2
+5261,18/09/2023,52,Male,Philadelphia,Beauty,362.33,5,18,518.41
+5262,19/09/2023,24,Male,Los Angeles,Home Decor,155.59,7,22.9,229.57
+5263,20/09/2023,33,Non-Binary,Phoenix,Home Decor,287.54,4,46.38,397.37
+5264,21/09/2023,43,Female,Philadelphia,Home Decor,243.26,4,49.7,428.02
+5265,22/09/2023,19,Non-Binary,Philadelphia,Electronics,335.2,8,7.02,426.1
+5266,23/09/2023,18,Female,Houston,Electronics,469.05,8,39.25,825.65
+5267,24/09/2023,29,Female,Los Angeles,Electronics,368.96,2,21.73,594.14
+5268,25/09/2023,22,Non-Binary,Chicago,Electronics,115.32,2,22.66,175.16
+5269,26/09/2023,54,Female,Houston,Home Decor,25.28,3,38.94,30.83
+5270,27/09/2023,49,Male,New York,Fitness,138.51,3,46.33,205.74
+5271,28/09/2023,26,Non-Binary,Los Angeles,Electronics,301.59,1,47.79,435.69
+5272,29/09/2023,58,Female,Houston,Home Decor,35.2,3,30.97,45.64
+5273,30/09/2023,52,Male,Phoenix,Fitness,253.22,6,21.07,403.59
+5274,1/10/2023,36,Non-Binary,Phoenix,Electronics,302.45,8,40.44,539.17
+5275,2/10/2023,33,Non-Binary,Houston,Fitness,173.78,6,16.3,267.15
+5276,3/10/2023,20,Non-Binary,Philadelphia,Fitness,387.75,5,30.38,631.59
+5277,4/10/2023,37,Non-Binary,Philadelphia,Fitness,62.23,4,21.14,77.23
+5278,5/10/2023,41,Female,Chicago,Fitness,46.82,3,34.55,67.92
+5279,6/10/2023,50,Female,New York,Home Decor,366.81,4,15.82,465.78
+5280,7/10/2023,41,Female,Philadelphia,Home Decor,252.79,7,13.62,396.29
+5281,8/10/2023,28,Female,Los Angeles,Beauty,347.32,1,46.32,612.36
+5282,9/10/2023,25,Non-Binary,Phoenix,Fitness,223.07,7,9.58,356.26
+5283,10/10/2023,53,Male,Houston,Home Decor,130.74,1,27.77,162.91
+5284,11/10/2023,55,Female,Philadelphia,Fitness,411.36,2,14.94,581.17
+5285,12/10/2023,57,Male,Chicago,Beauty,401.71,4,6.75,614.78
+5286,13/10/2023,37,Non-Binary,Houston,Beauty,350.4,1,6.62,505.25
+5287,14/10/2023,52,Male,Phoenix,Beauty,143.35,9,12.88,243.72
+5288,15/10/2023,42,Non-Binary,Houston,Beauty,299.21,6,44,505.31
+5289,16/10/2023,52,Non-Binary,Phoenix,Beauty,186.88,1,17.71,292.86
+5290,17/10/2023,42,Non-Binary,Philadelphia,Home Decor,54.88,1,47.77,78.15
+5291,18/10/2023,46,Non-Binary,Chicago,Beauty,459.48,6,31.17,621.77
+5292,19/10/2023,35,Male,Los Angeles,Books,77.04,4,24.65,97.34
+5293,20/10/2023,63,Female,Philadelphia,Books,475.62,4,31.1,672.02
+5294,21/10/2023,35,Female,Philadelphia,Electronics,228.54,6,28.25,330.9
+5295,22/10/2023,19,Non-Binary,Phoenix,Home Decor,100.72,7,39.14,161.71
+5296,23/10/2023,52,Female,Philadelphia,Home Decor,275.53,9,17.71,439.44
+5297,24/10/2023,33,Male,New York,Beauty,437.74,5,20.89,543.7
+5298,25/10/2023,58,Male,Houston,Home Decor,368.79,9,45.23,530.01
+5299,26/10/2023,53,Male,Philadelphia,Home Decor,405.21,4,47.59,530.45
+5300,27/10/2023,50,Non-Binary,Phoenix,Electronics,332.8,2,45.17,430.67
+5301,28/10/2023,21,Male,Philadelphia,Fitness,349.22,3,23.88,592.41
+5302,29/10/2023,50,Non-Binary,Phoenix,Fitness,426.11,1,40.12,522.05
+5303,30/10/2023,31,Female,New York,Beauty,132.34,6,26.44,192.09
+5304,31/10/2023,38,Female,Chicago,Beauty,249.82,6,27.39,325
+5305,1/11/2023,37,Female,Phoenix,Books,118.39,1,14.21,204.53
+5306,2/11/2023,25,Female,Chicago,Electronics,493.96,3,31.6,757.85
+5307,3/11/2023,24,Male,Los Angeles,Home Decor,472.59,5,13.38,632.72
+5308,4/11/2023,20,Non-Binary,Philadelphia,Fitness,29.32,3,19.92,44.02
+5309,5/11/2023,34,Male,Los Angeles,Fitness,355.73,3,43.48,583
+5310,6/11/2023,50,Non-Binary,Los Angeles,Beauty,463.37,3,14.32,822.42
+5311,7/11/2023,29,Male,Houston,Books,98.48,5,8.2,131.2
+5312,8/11/2023,39,Non-Binary,Phoenix,Beauty,288.29,5,8.11,499.23
+5313,9/11/2023,39,Non-Binary,Philadelphia,Books,458.59,4,47.34,807.39
+5314,10/11/2023,63,Female,New York,Beauty,26.63,1,27.81,46.6
+5315,11/11/2023,47,Non-Binary,Phoenix,Electronics,351.74,5,23.42,556.19
+5316,12/11/2023,55,Female,Philadelphia,Books,155.7,5,41.49,245.68
+5317,13/11/2023,55,Male,Los Angeles,Home Decor,462.95,4,42.61,667.54
+5318,14/11/2023,62,Female,Philadelphia,Home Decor,485.82,6,19.95,802.3
+5319,15/11/2023,25,Non-Binary,New York,Beauty,472.69,4,36.21,717.91
+5320,16/11/2023,44,Female,Chicago,Home Decor,242.36,7,39.7,389.34
+5321,17/11/2023,44,Female,New York,Fitness,432.4,7,34.46,630.04
+5322,18/11/2023,51,Non-Binary,Phoenix,Electronics,423.83,2,11.82,694.61
+5323,19/11/2023,38,Male,Philadelphia,Home Decor,166.36,3,44.41,281.93
+5324,20/11/2023,47,Female,Philadelphia,Electronics,416.17,1,29.26,535.97
+5325,21/11/2023,50,Non-Binary,Los Angeles,Electronics,28.13,8,17.71,47.81
+5326,22/11/2023,45,Non-Binary,New York,Fitness,302.17,9,24.14,460.56
+5327,23/11/2023,64,Male,Chicago,Electronics,122.7,4,6.69,209.42
+5328,24/11/2023,50,Non-Binary,New York,Fitness,69.08,6,10.75,100.77
+5329,25/11/2023,22,Male,Philadelphia,Books,47.71,9,39.45,68.1
+5330,26/11/2023,36,Male,Houston,Electronics,351.18,6,5,614.23
+5331,27/11/2023,21,Non-Binary,New York,Fitness,176.54,9,23.75,238.45
+5332,28/11/2023,52,Non-Binary,Los Angeles,Beauty,365.14,4,28.51,623.12
+5333,29/11/2023,34,Female,New York,Home Decor,42.02,8,7.46,62.63
+5334,30/11/2023,61,Non-Binary,Phoenix,Electronics,164.49,9,48.79,248.13
+5335,1/12/2023,45,Male,Houston,Books,274.35,4,15.18,380
+5336,2/12/2023,47,Male,Philadelphia,Fitness,397.45,5,18.69,613.59
+5337,3/12/2023,46,Male,Houston,Beauty,166.19,8,18.68,231.86
+5338,4/12/2023,63,Non-Binary,Los Angeles,Fitness,316.69,6,15.37,387.49
+5339,5/12/2023,23,Non-Binary,Los Angeles,Fitness,444.13,7,5.07,605.44
+5340,6/12/2023,52,Male,Houston,Home Decor,311.77,3,37.82,375.32
+5341,7/12/2023,58,Male,Phoenix,Electronics,124.15,7,48.51,221.86
+5342,8/12/2023,54,Male,Philadelphia,Electronics,21.96,8,15.09,39.08
+5343,9/12/2023,41,Male,Chicago,Beauty,436.35,6,34.84,627.08
+5344,10/12/2023,46,Male,Phoenix,Books,20.42,9,38.39,33.43
+5345,11/12/2023,63,Female,Phoenix,Books,438.6,6,43.18,617.32
+5346,12/12/2023,48,Female,Houston,Fitness,269.18,9,24.02,431.4
+5347,13/12/2023,52,Non-Binary,Los Angeles,Books,470.14,4,18.63,791.37
+5348,14/12/2023,50,Male,Chicago,Electronics,401.4,8,19.64,709.7
+5349,15/12/2023,38,Female,Los Angeles,Fitness,498.99,4,37.07,718.61
+5350,16/12/2023,49,Female,Phoenix,Fitness,181.85,2,41.76,303.69
+5351,17/12/2023,40,Non-Binary,Phoenix,Home Decor,385.92,9,13.17,524.68
+5352,18/12/2023,50,Female,Chicago,Fitness,206.95,5,21.69,371.31
+5353,19/12/2023,20,Male,Houston,Fitness,245.14,4,45.59,297.96
+5354,20/12/2023,35,Male,Phoenix,Electronics,317.48,2,41.3,495.94
+5355,21/12/2023,42,Female,Los Angeles,Books,438.1,1,49.32,699.08
+5356,22/12/2023,59,Female,Philadelphia,Fitness,492.2,7,38.94,793.83
+5357,23/12/2023,48,Male,Phoenix,Books,386.45,6,22.69,491.65
+5358,24/12/2023,20,Male,Los Angeles,Books,214.71,2,31.58,378.56
+5359,25/12/2023,57,Male,Houston,Fitness,216.46,8,34.75,283.28
+5360,26/12/2023,63,Male,Houston,Electronics,371.42,4,8.53,584.49
+5361,27/12/2023,41,Female,Houston,Fitness,127,8,29.5,169.37
+5362,28/12/2023,49,Female,Phoenix,Books,64.13,7,36.92,88.78
+5363,29/12/2023,64,Non-Binary,New York,Home Decor,183.76,5,12.53,280.76
+5364,30/12/2023,39,Non-Binary,Philadelphia,Beauty,150.75,8,40.13,218.64
+5365,31/12/2023,40,Non-Binary,Philadelphia,Fitness,155.19,9,31.27,201.15
+5366,1/01/2024,19,Non-Binary,Los Angeles,Home Decor,124.47,5,47.85,162.13
+5367,2/01/2024,44,Female,Los Angeles,Home Decor,30.63,5,6.91,44.44
+5368,3/01/2024,59,Non-Binary,New York,Fitness,18.76,2,16.94,31.04
+5369,4/01/2024,19,Female,New York,Beauty,493.98,5,32.07,858.92
+5370,5/01/2024,43,Non-Binary,Phoenix,Electronics,219.61,3,18.35,274.62
+5371,6/01/2024,34,Non-Binary,Los Angeles,Home Decor,198.32,7,37.15,284.76
+5372,7/01/2024,57,Male,Chicago,Electronics,343.03,5,39.16,432.27
+5373,8/01/2024,50,Female,Los Angeles,Electronics,116.94,8,9.61,141.49
+5374,9/01/2024,26,Female,Houston,Home Decor,475.48,1,28.12,759.36
+5375,10/01/2024,60,Female,Houston,Fitness,395.31,3,27.9,617.26
+5376,11/01/2024,56,Male,New York,Books,53.81,3,21.62,69.84
+5377,12/01/2024,46,Female,Houston,Fitness,214.61,9,46.98,287.64
+5378,13/01/2024,59,Male,New York,Home Decor,440.77,5,42.24,535.19
+5379,14/01/2024,43,Female,Phoenix,Books,472.92,9,36.37,804.42
+5380,15/01/2024,52,Female,Chicago,Fitness,239.03,9,37.14,426.62
+5381,16/01/2024,42,Male,Houston,Books,310.57,1,25.78,397.93
+5382,17/01/2024,41,Male,Houston,Electronics,91.85,2,46.44,122.98
+5383,18/01/2024,30,Female,Phoenix,Fitness,495.67,5,36.26,853.07
+5384,19/01/2024,24,Female,Houston,Books,123.52,4,37.8,216.89
+5385,20/01/2024,53,Female,Los Angeles,Fitness,471.94,9,43.78,685.15
+5386,21/01/2024,62,Male,Houston,Beauty,328.33,7,17.33,403.97
+5387,22/01/2024,37,Female,Los Angeles,Home Decor,307.79,6,41.32,376.62
+5388,23/01/2024,18,Female,Philadelphia,Electronics,261.22,7,13.79,403.42
+5389,24/01/2024,25,Male,Houston,Fitness,123.03,1,20.54,176.64
+5390,25/01/2024,63,Male,Chicago,Books,96.5,1,20.1,117.46
+5391,26/01/2024,33,Male,Phoenix,Home Decor,118.04,8,49.03,182.96
+5392,27/01/2024,31,Male,Philadelphia,Books,101.35,2,43.54,122.31
+5393,28/01/2024,29,Male,Houston,Fitness,392,9,36.55,655.59
+5394,29/01/2024,40,Male,Chicago,Electronics,181.56,7,37.72,251.25
+5395,30/01/2024,32,Female,Phoenix,Home Decor,38.34,6,30.29,46.93
+5396,31/01/2024,45,Male,Philadelphia,Fitness,484.86,1,47.62,752.99
+5397,1/02/2024,51,Female,Phoenix,Electronics,443.06,1,27.33,637.39
+5398,2/02/2024,19,Non-Binary,Chicago,Electronics,464.6,2,22.12,828.98
+5399,3/02/2024,49,Female,Los Angeles,Fitness,497.5,6,12.34,759.44
+5400,4/02/2024,40,Male,New York,Electronics,95.21,6,40.38,129.98
+5401,5/02/2024,39,Female,New York,Fitness,204.16,2,38.05,331.9
+5402,6/02/2024,42,Non-Binary,Chicago,Electronics,381.54,1,22.3,520
+5403,7/02/2024,39,Male,Chicago,Home Decor,351.05,5,6.13,611.72
+5404,8/02/2024,39,Female,Chicago,Fitness,85.41,5,42.75,121.7
+5405,9/02/2024,59,Male,Phoenix,Fitness,409.76,2,5.51,626.9
+5406,10/02/2024,23,Female,New York,Books,119.98,6,36.67,147.62
+5407,11/02/2024,32,Female,Chicago,Electronics,119.67,9,48.66,174.2
+5408,12/02/2024,60,Male,Chicago,Books,273.12,2,24.69,464.15
+5409,13/02/2024,54,Male,Chicago,Beauty,300.54,2,15.57,505.93
+5410,14/02/2024,50,Male,Philadelphia,Beauty,294.24,3,36.72,392.69
+5411,15/02/2024,25,Male,Phoenix,Home Decor,54.83,7,41.77,73.23
+5412,16/02/2024,61,Female,Chicago,Fitness,439.96,6,29.59,743.7
+5413,17/02/2024,61,Female,Los Angeles,Books,140.14,8,48.52,246.4
+5414,18/02/2024,22,Non-Binary,Philadelphia,Beauty,73.46,8,7.33,92.36
+5415,19/02/2024,56,Female,Los Angeles,Books,445.49,6,27.72,654.89
+5416,20/02/2024,21,Female,Houston,Home Decor,478.27,3,37.33,670.76
+5417,21/02/2024,23,Male,Chicago,Fitness,432.44,3,43.82,744.84
+5418,22/02/2024,62,Male,Los Angeles,Fitness,406.66,1,13.07,508.37
+5419,23/02/2024,49,Female,Houston,Home Decor,331.07,7,41,439.22
+5420,24/02/2024,47,Female,Houston,Electronics,279.92,5,29.87,462.28
+5421,25/02/2024,64,Female,Chicago,Beauty,52.62,4,22.84,64.76
+5422,26/02/2024,52,Female,New York,Books,210.14,4,10.93,314.27
+5423,27/02/2024,57,Non-Binary,Los Angeles,Fitness,192.62,4,43.94,282.24
+5424,28/02/2024,33,Non-Binary,Los Angeles,Home Decor,137.28,6,12.08,192.28
+5425,29/02/2024,30,Male,Philadelphia,Beauty,364.48,8,18.94,523.66
+5426,1/03/2024,59,Non-Binary,Phoenix,Beauty,252.98,8,18.05,384.01
+5427,2/03/2024,47,Non-Binary,Philadelphia,Books,49.71,5,44.21,64.46
+5428,3/03/2024,36,Female,Chicago,Beauty,117.89,6,35.27,181.93
+5429,4/03/2024,34,Female,Philadelphia,Fitness,344.8,4,40.85,580.39
+5430,5/03/2024,36,Non-Binary,Los Angeles,Home Decor,47.3,9,16.27,78.33
+5431,6/03/2024,45,Non-Binary,Chicago,Fitness,427.09,8,33.12,551.95
+5432,7/03/2024,43,Male,Houston,Fitness,252.62,1,30.73,325.77
+5433,8/03/2024,54,Female,Los Angeles,Beauty,245.49,2,42.48,334.09
+5434,9/03/2024,43,Female,New York,Home Decor,300.28,9,45.77,425.39
+5435,10/03/2024,40,Female,Chicago,Fitness,414.09,8,5.55,598.39
+5436,11/03/2024,26,Non-Binary,New York,Electronics,180.43,3,35.33,290.1
+5437,12/03/2024,29,Male,Phoenix,Books,342.23,8,7.33,422.31
+5438,13/03/2024,18,Female,Los Angeles,Beauty,287.21,1,29.7,350.63
+5439,14/03/2024,18,Male,Philadelphia,Electronics,140.84,4,17.94,202.13
+5440,15/03/2024,64,Male,Chicago,Electronics,440.53,3,18.8,712.91
+5441,16/03/2024,51,Male,Houston,Home Decor,400.74,6,20.88,527.4
+5442,17/03/2024,49,Male,New York,Home Decor,332.64,7,32.96,527.2
+5443,18/03/2024,42,Female,Phoenix,Home Decor,426.79,4,20.03,578.68
+5444,19/03/2024,57,Non-Binary,Phoenix,Home Decor,434.97,7,37.97,753.22
+5445,20/03/2024,62,Non-Binary,Los Angeles,Beauty,357.1,9,23.2,620.43
+5446,21/03/2024,18,Female,Houston,Electronics,420.14,2,8.08,579.11
+5447,22/03/2024,33,Non-Binary,Phoenix,Electronics,351.76,3,40.27,470.65
+5448,23/03/2024,56,Male,Los Angeles,Books,343.27,5,17.86,496.64
+5449,24/03/2024,22,Non-Binary,Los Angeles,Beauty,313.12,3,24.47,420.93
+5450,25/03/2024,39,Male,Chicago,Beauty,378.83,8,35.84,607.43
+5451,26/03/2024,46,Female,New York,Fitness,87.72,8,19.96,148.74
+5452,27/03/2024,20,Male,Phoenix,Books,441.63,8,7.55,708.31
+5453,28/03/2024,29,Female,Chicago,Home Decor,437.2,9,21.83,740.88
+5454,29/03/2024,43,Non-Binary,New York,Beauty,24.33,4,47.5,34.99
+5455,30/03/2024,33,Male,New York,Books,414.65,5,33.88,536.47
+5456,31/03/2024,54,Non-Binary,Los Angeles,Books,73.15,5,35.22,120.17
+5457,1/04/2024,39,Male,Chicago,Beauty,174.21,8,33.45,246.73
+5458,2/04/2024,46,Male,Chicago,Electronics,374.32,7,13.95,599.95
+5459,3/04/2024,31,Female,New York,Electronics,88.77,9,23.83,120.94
+5460,4/04/2024,45,Non-Binary,Los Angeles,Home Decor,410.8,8,38.79,512.98
+5461,5/04/2024,22,Non-Binary,New York,Fitness,417.75,2,9.56,750.09
+5462,6/04/2024,64,Female,Phoenix,Home Decor,258.66,4,17.5,334.63
+5463,7/04/2024,47,Female,Houston,Home Decor,13.13,6,17.43,23.54
+5464,8/04/2024,63,Male,Philadelphia,Beauty,150.65,2,24.44,269.12
+5465,9/04/2024,22,Male,Philadelphia,Home Decor,312.29,7,49.12,523.49
+5466,10/04/2024,29,Non-Binary,Chicago,Electronics,490.78,3,8.04,783.11
+5467,11/04/2024,33,Female,Los Angeles,Books,319.59,3,28.34,494.3
+5468,12/04/2024,43,Female,New York,Books,137.3,2,13.07,236.11
+5469,13/04/2024,43,Female,New York,Books,320.66,8,48.68,440.48
+5470,14/04/2024,38,Male,New York,Electronics,274.59,6,10.1,406.56
+5471,15/04/2024,56,Non-Binary,Los Angeles,Home Decor,392.12,1,23.16,616.27
+5472,16/04/2024,53,Male,Philadelphia,Electronics,62.42,1,38.2,90.3
+5473,17/04/2024,50,Female,Los Angeles,Home Decor,382.9,7,36.7,557.69
+5474,18/04/2024,47,Male,Los Angeles,Books,275.22,8,24.02,384.8
+5475,19/04/2024,54,Male,Houston,Beauty,481.87,5,20.59,741.38
+5476,20/04/2024,40,Non-Binary,Chicago,Books,177.52,5,22.89,303.62
+5477,21/04/2024,27,Non-Binary,Philadelphia,Electronics,319.98,4,16.89,422.67
+5478,22/04/2024,22,Male,Philadelphia,Fitness,466.69,6,14.24,821.68
+5479,23/04/2024,53,Male,Chicago,Home Decor,60.23,6,26.74,97.18
+5480,24/04/2024,51,Non-Binary,New York,Beauty,469.24,3,17.08,794.88
+5481,25/04/2024,48,Male,Chicago,Home Decor,347.06,9,17.94,532.29
+5482,26/04/2024,27,Male,Philadelphia,Books,43.24,7,34.55,72.11
+5483,27/04/2024,36,Non-Binary,Philadelphia,Electronics,157.47,1,48.58,190.49
+5484,28/04/2024,49,Male,Los Angeles,Home Decor,357,7,32.16,603.7
+5485,29/04/2024,18,Female,New York,Beauty,43,5,8.46,52.64
+5486,30/04/2024,22,Male,New York,Home Decor,295.26,5,8.4,511.97
+5487,1/05/2024,62,Non-Binary,Philadelphia,Home Decor,179.48,2,47.81,322.2
+5488,2/05/2024,21,Male,New York,Beauty,314.25,4,18.38,432.55
+5489,3/05/2024,33,Non-Binary,New York,Fitness,32.41,6,9.14,42.98
+5490,4/05/2024,41,Male,Chicago,Beauty,437.05,7,31.96,725.16
+5491,5/05/2024,33,Non-Binary,New York,Beauty,487.01,5,33.06,658.35
+5492,6/05/2024,19,Female,Phoenix,Electronics,484.75,9,34.18,833.45
+5493,7/05/2024,45,Female,Houston,Home Decor,377.33,3,17.03,476.08
+5494,8/05/2024,49,Male,Phoenix,Beauty,73.74,1,5.68,94.06
+5495,9/05/2024,44,Male,Los Angeles,Beauty,381.55,4,48.43,682.02
+5496,10/05/2024,37,Male,New York,Fitness,22.05,9,16.29,35.37
+5497,11/05/2024,41,Female,Los Angeles,Books,20.84,4,35.42,35.6
+5498,12/05/2024,29,Non-Binary,Phoenix,Electronics,168.57,2,36.8,235.09
+5499,13/05/2024,52,Male,Los Angeles,Electronics,249.44,5,32.45,400.57
+5500,14/05/2024,50,Female,Phoenix,Books,387.5,3,19.08,603.16
+5501,15/05/2024,50,Non-Binary,Los Angeles,Electronics,344.81,9,17.2,538.56
+5502,16/05/2024,60,Female,Phoenix,Home Decor,228.49,4,31.9,367.76
+5503,17/05/2024,54,Non-Binary,Los Angeles,Home Decor,144.08,6,43.97,222.63
+5504,18/05/2024,29,Male,Chicago,Electronics,498.59,2,47.6,726.66
+5505,19/05/2024,20,Male,New York,Fitness,218.83,6,9.77,298.82
+5506,20/05/2024,18,Male,Houston,Books,231.18,3,11.97,384.02
+5507,21/05/2024,50,Male,New York,Home Decor,90.18,9,47.51,120.46
+5508,22/05/2024,57,Non-Binary,New York,Fitness,399.46,2,38.14,645.29
+5509,23/05/2024,27,Female,Houston,Books,349.9,9,44.73,468.87
+5510,24/05/2024,60,Female,Los Angeles,Beauty,118.18,5,14.12,186.16
+5511,25/05/2024,61,Non-Binary,New York,Fitness,50.37,8,31.44,83.02
+5512,26/05/2024,46,Male,Phoenix,Fitness,343.44,2,36.55,457.2
+5513,27/05/2024,30,Non-Binary,Los Angeles,Beauty,330.71,6,35.61,408.75
+5514,28/05/2024,29,Non-Binary,Phoenix,Electronics,143.9,3,23.37,183.99
+5515,29/05/2024,48,Non-Binary,Philadelphia,Fitness,475.92,5,5.69,744.15
+5516,30/05/2024,63,Non-Binary,Chicago,Home Decor,84.02,8,31.23,143.65
+5517,31/05/2024,19,Male,Houston,Electronics,221.84,1,16.39,272.2
+5518,1/06/2024,52,Female,Los Angeles,Books,472.37,5,25.26,774.92
+5519,2/06/2024,40,Male,Phoenix,Books,215.67,3,48.09,302.97
+5520,3/06/2024,34,Non-Binary,Los Angeles,Fitness,322.88,4,22.96,480.16
+5521,4/06/2024,43,Male,Houston,Home Decor,204.82,2,42.79,359.93
+5522,5/06/2024,25,Non-Binary,Philadelphia,Electronics,144.37,9,13.48,202
+5523,6/06/2024,46,Male,Phoenix,Fitness,492.15,3,35.26,727.99
+5524,7/06/2024,43,Female,Houston,Beauty,210.57,2,48.97,254.41
+5525,8/06/2024,27,Female,Phoenix,Beauty,448.11,9,9.59,559.67
+5526,9/06/2024,43,Female,Los Angeles,Fitness,122.68,7,5.37,166.25
+5527,10/06/2024,51,Male,Phoenix,Books,114.42,6,24.51,139.22
+5528,11/06/2024,58,Female,Houston,Home Decor,25.26,1,9.17,39.88
+5529,12/06/2024,24,Non-Binary,Los Angeles,Electronics,329.32,5,38.68,479.44
+5530,13/06/2024,21,Non-Binary,Los Angeles,Home Decor,190.58,3,46.15,291.38
+5531,14/06/2024,62,Female,New York,Electronics,433.54,1,24.53,565.68
+5532,15/06/2024,28,Female,Los Angeles,Books,241.87,4,16.64,333.19
+5533,16/06/2024,46,Non-Binary,Chicago,Home Decor,484.41,2,24.55,774.23
+5534,17/06/2024,53,Non-Binary,New York,Electronics,100.91,2,37.56,179.54
+5535,18/06/2024,42,Female,Chicago,Home Decor,435.63,3,5.41,535.93
+5536,19/06/2024,38,Female,Philadelphia,Books,390.53,8,31.53,677.27
+5537,20/06/2024,53,Non-Binary,Philadelphia,Fitness,387.75,8,32.6,599.51
+5538,21/06/2024,27,Male,Houston,Fitness,423.94,7,33.7,652.17
+5539,22/06/2024,54,Male,Los Angeles,Electronics,382.9,6,15.89,574.41
+5540,23/06/2024,26,Female,Chicago,Books,316.85,9,37.13,393.41
+5541,24/06/2024,41,Female,Houston,Electronics,74.31,4,9.11,93.18
+5542,25/06/2024,52,Male,Phoenix,Beauty,25.94,1,13.97,40.48
+5543,26/06/2024,52,Female,Houston,Electronics,461.22,8,44.49,647.82
+5544,27/06/2024,53,Female,Phoenix,Beauty,312.16,7,38.24,546.39
+5545,28/06/2024,35,Female,Phoenix,Fitness,400.3,7,5.62,578.01
+5546,29/06/2024,56,Non-Binary,Chicago,Books,245.95,3,16.18,316.28
+5547,30/06/2024,49,Non-Binary,Phoenix,Beauty,67.48,4,14.65,109.91
+5548,1/07/2024,41,Female,Phoenix,Beauty,71.34,9,17.19,98.16
+5549,2/07/2024,40,Non-Binary,Houston,Beauty,345.93,6,16.14,524.18
+5550,3/07/2024,49,Male,Los Angeles,Books,220.85,5,7.81,357.49
+5551,4/07/2024,54,Non-Binary,New York,Beauty,108.26,3,25.65,188.39
+5552,5/07/2024,29,Non-Binary,Los Angeles,Books,250.88,9,37.97,420.3
+5553,6/07/2024,30,Non-Binary,Los Angeles,Books,41.46,5,32.3,66.58
+5554,7/07/2024,40,Non-Binary,Phoenix,Fitness,295.17,5,35.28,474.57
+5555,8/07/2024,42,Female,Chicago,Home Decor,141.81,4,8.65,250.66
+5556,9/07/2024,52,Female,Houston,Home Decor,400.8,4,47.82,552.1
+5557,10/07/2024,58,Non-Binary,Los Angeles,Beauty,162.08,1,42.73,194.6
+5558,11/07/2024,47,Non-Binary,Phoenix,Beauty,233.06,7,41.23,317.7
+5559,12/07/2024,34,Male,Los Angeles,Books,15.69,9,42.03,20.88
+5560,13/07/2024,37,Male,Chicago,Fitness,45.5,3,46.97,72.67
+5561,14/07/2024,42,Male,Phoenix,Books,202.32,2,29.49,319.71
+5562,15/07/2024,39,Female,Los Angeles,Books,245.17,3,14.01,381.5
+5563,16/07/2024,30,Female,Chicago,Electronics,304.01,1,32.76,367.77
+5564,17/07/2024,36,Non-Binary,Houston,Fitness,152.91,6,38.43,250.35
+5565,18/07/2024,53,Female,Chicago,Fitness,350.54,7,38.21,488.69
+5566,19/07/2024,29,Female,Philadelphia,Books,431.46,2,28.47,689.92
+5567,20/07/2024,58,Male,New York,Fitness,392.13,8,8.08,601.51
+5568,21/07/2024,36,Non-Binary,Philadelphia,Electronics,29.41,6,21.7,41.34
+5569,22/07/2024,29,Female,Los Angeles,Beauty,245.45,4,46.43,314.36
+5570,23/07/2024,26,Female,New York,Beauty,61.42,5,31.3,77.18
+5571,24/07/2024,24,Male,Houston,Beauty,128.6,8,29.22,218.48
+5572,25/07/2024,45,Male,Chicago,Electronics,493.46,3,17.1,864.07
+5573,26/07/2024,31,Male,Houston,Books,79.82,3,21.58,126.9
+5574,27/07/2024,48,Female,Los Angeles,Beauty,254.46,4,45.29,321.14
+5575,28/07/2024,36,Male,Phoenix,Home Decor,312.9,1,34.99,450.96
+5576,29/07/2024,64,Non-Binary,Houston,Beauty,354.21,9,40.43,579.97
+5577,30/07/2024,33,Male,New York,Electronics,284.23,8,25.45,474.07
+5578,31/07/2024,22,Male,Philadelphia,Fitness,14.79,8,33.36,18.8
+5579,1/08/2024,52,Male,Phoenix,Books,169.97,6,16.18,203.97
+5580,2/08/2024,29,Male,Houston,Fitness,263.68,7,36.75,429.08
+5581,3/08/2024,42,Non-Binary,Chicago,Fitness,53.05,6,24.24,75.01
+5582,4/08/2024,38,Non-Binary,Philadelphia,Fitness,181.81,9,24.91,245.93
+5583,5/08/2024,53,Non-Binary,New York,Fitness,26.27,3,34.22,31.73
+5584,6/08/2024,40,Male,Chicago,Books,48.5,3,47.13,73.92
+5585,7/08/2024,33,Non-Binary,Chicago,Electronics,204.49,3,7.88,349.82
+5586,8/08/2024,56,Non-Binary,Houston,Electronics,75.03,3,42.11,133.15
+5587,9/08/2024,62,Female,Chicago,Home Decor,288.1,9,18.16,443.51
+5588,10/08/2024,59,Male,Houston,Beauty,347.84,4,24.98,524.78
+5589,11/08/2024,56,Female,Philadelphia,Books,402.29,7,5.99,503.28
+5590,12/08/2024,31,Male,Chicago,Beauty,108.07,9,18.55,165.27
+5591,13/08/2024,48,Female,New York,Home Decor,92.07,7,27.62,131.47
+5592,14/08/2024,22,Female,Houston,Home Decor,61.24,9,7.53,95.8
+5593,15/08/2024,52,Female,Philadelphia,Fitness,321.85,3,27.1,461.29
+5594,16/08/2024,40,Non-Binary,New York,Fitness,356.17,4,46.72,478.76
+5595,17/08/2024,46,Non-Binary,Los Angeles,Home Decor,25.48,8,9.74,32.03
+5596,18/08/2024,60,Male,Los Angeles,Fitness,468.74,6,39.4,651.06
+5597,19/08/2024,28,Female,New York,Home Decor,35.47,5,23.44,44.62
+5598,20/08/2024,35,Non-Binary,New York,Beauty,275.24,4,34.48,359.5
+5599,21/08/2024,64,Female,Chicago,Beauty,357.44,8,16.71,640.68
+5600,22/08/2024,29,Male,Houston,Beauty,436.77,1,12.18,640.51
+5601,23/08/2024,26,Female,Chicago,Electronics,359.9,9,12.22,546.73
+5602,24/08/2024,27,Non-Binary,Philadelphia,Home Decor,402.85,1,8.17,694.58
+5603,25/08/2024,61,Female,Phoenix,Fitness,176.33,8,13.35,316.93
+5604,26/08/2024,34,Male,Philadelphia,Beauty,409.26,4,34.89,634.2
+5605,27/08/2024,55,Female,Philadelphia,Electronics,49.26,9,44.68,83.13
+5606,28/08/2024,24,Male,Phoenix,Fitness,448.46,5,41.64,626.12
+5607,29/08/2024,63,Male,Houston,Books,278.32,3,35.83,385.04
+5608,30/08/2024,30,Female,New York,Electronics,410.48,9,9.97,591.76
+5609,31/08/2024,57,Non-Binary,Chicago,Beauty,231.64,9,18.01,371.44
+5610,1/09/2024,59,Non-Binary,New York,Electronics,325.35,4,18.94,523.59
+5611,2/09/2024,26,Male,Phoenix,Beauty,267.94,4,16.25,372.21
+5612,3/09/2024,44,Female,Phoenix,Electronics,368.48,8,28.18,471.63
+5613,4/09/2024,19,Non-Binary,Phoenix,Books,50,2,29.1,78.97
+5614,5/09/2024,22,Male,Houston,Fitness,39.57,9,21.06,50.53
+5615,6/09/2024,46,Male,Philadelphia,Electronics,131.08,6,20.92,202.79
+5616,7/09/2024,54,Male,Houston,Beauty,88.18,9,42.29,142.5
+5617,8/09/2024,55,Male,New York,Electronics,437.17,8,40.52,708.38
+5618,9/09/2024,36,Male,Phoenix,Beauty,117.41,7,18.85,193.97
+5619,10/09/2024,25,Male,New York,Fitness,488.17,1,46.12,841.47
+5620,11/09/2024,62,Male,Philadelphia,Fitness,175.08,3,47.88,262.62
+5621,12/09/2024,18,Non-Binary,Phoenix,Home Decor,99.24,2,19.7,162.57
+5622,13/09/2024,39,Non-Binary,Houston,Books,396.95,5,20.95,623.81
+5623,14/09/2024,34,Non-Binary,Chicago,Books,332.77,5,27.75,436.59
+5624,15/09/2024,24,Non-Binary,Chicago,Fitness,254.12,5,47.35,308.86
+5625,16/09/2024,42,Non-Binary,Philadelphia,Home Decor,282.13,4,44.43,386.72
+5626,17/09/2024,62,Male,Phoenix,Books,362.41,5,9.62,531.23
+5627,18/09/2024,21,Female,Los Angeles,Home Decor,121.94,3,22.67,191.48
+5628,19/09/2024,53,Female,Chicago,Electronics,498.2,1,29.9,851.91
+5629,20/09/2024,23,Non-Binary,Philadelphia,Electronics,487.65,5,27.64,642.6
+5630,21/09/2024,48,Male,Philadelphia,Home Decor,328.66,9,13.72,419.15
+5631,22/09/2024,36,Female,Phoenix,Books,107.78,9,43.65,191.64
+5632,23/09/2024,61,Female,Phoenix,Beauty,343.31,4,35.46,434.23
+5633,24/09/2024,56,Non-Binary,Phoenix,Electronics,45.38,3,42.71,67.48
+5634,25/09/2024,44,Female,Los Angeles,Electronics,25.02,1,43.64,38.81
+5635,26/09/2024,27,Non-Binary,Houston,Books,136.26,2,38.68,207.77
+5636,27/09/2024,43,Female,Chicago,Fitness,236.69,8,24.76,296.25
+5637,28/09/2024,36,Male,Phoenix,Beauty,435.45,1,32.47,537.44
+5638,29/09/2024,56,Female,Houston,Fitness,366.31,8,12.22,462.76
+5639,30/09/2024,20,Male,Houston,Books,373.93,7,35.31,580.1
+5640,1/10/2024,62,Male,Chicago,Fitness,218.49,8,13.07,333.55
+5641,2/10/2024,30,Male,New York,Books,179.51,6,36.23,240.59
+5642,3/10/2024,45,Female,Philadelphia,Electronics,191.81,9,15.33,303.57
+5643,4/10/2024,37,Female,Los Angeles,Beauty,493.95,3,10.29,835.78
+5644,5/10/2024,45,Female,Los Angeles,Books,29.65,4,12.44,36.32
+5645,6/10/2024,25,Female,Philadelphia,Home Decor,434.85,6,5.09,651.79
+5646,7/10/2024,58,Female,Los Angeles,Beauty,293.55,8,37.34,473.67
+5647,8/10/2024,56,Male,New York,Home Decor,224.92,5,37.96,303.95
+5648,9/10/2024,18,Non-Binary,Chicago,Electronics,365.38,3,28.17,505.93
+5649,10/10/2024,20,Non-Binary,Philadelphia,Beauty,248.47,6,12.26,389.65
+5650,11/10/2024,30,Non-Binary,Chicago,Fitness,437.98,4,8.76,761.54
+5651,12/10/2024,45,Female,Phoenix,Electronics,451.34,9,5.86,760.94
+5652,13/10/2024,42,Female,Philadelphia,Beauty,216.64,3,12.46,335.77
+5653,14/10/2024,50,Male,Phoenix,Home Decor,145.65,4,45.09,238.59
+5654,15/10/2024,55,Non-Binary,Phoenix,Home Decor,300.25,7,15.87,426.02
+5655,16/10/2024,23,Female,Houston,Beauty,457.06,7,20.94,724.25
+5656,17/10/2024,61,Non-Binary,Chicago,Home Decor,113.22,4,9.74,167.53
+5657,18/10/2024,62,Male,Phoenix,Home Decor,315.25,6,15.01,414.23
+5658,19/10/2024,49,Female,Houston,Home Decor,319.46,3,28.37,517.86
+5659,20/10/2024,62,Male,Philadelphia,Home Decor,369.23,6,32.35,566.35
+5660,21/10/2024,64,Female,Los Angeles,Electronics,74.47,2,16.04,105.39
+5661,22/10/2024,38,Female,Los Angeles,Books,360.75,8,7.6,630.16
+5662,23/10/2024,33,Male,Houston,Home Decor,455.43,2,22.6,552.24
+5663,24/10/2024,38,Non-Binary,Philadelphia,Fitness,98.04,7,15.54,136.22
+5664,25/10/2024,28,Male,Phoenix,Books,126.4,9,14.88,155.99
+5665,26/10/2024,54,Non-Binary,Phoenix,Home Decor,485.98,1,48.19,806.69
+5666,27/10/2024,53,Female,Houston,Home Decor,98.68,8,32.73,159.99
+5667,28/10/2024,52,Female,Philadelphia,Electronics,428.65,7,30.06,599.6
+5668,29/10/2024,36,Non-Binary,Phoenix,Home Decor,251.22,6,23.71,403.31
+5669,30/10/2024,37,Female,Phoenix,Electronics,131.14,6,24.3,188.52
+5670,31/10/2024,35,Non-Binary,Philadelphia,Beauty,436.67,6,29.34,722.14
+5671,1/11/2024,64,Non-Binary,Los Angeles,Books,228.2,9,36.34,336.03
+5672,2/11/2024,58,Non-Binary,New York,Home Decor,262.26,2,36.6,379.59
+5673,3/11/2024,31,Male,Houston,Home Decor,186.02,1,12.73,327.55
+5674,4/11/2024,32,Non-Binary,Houston,Books,300.55,6,27.51,405.9
+5675,5/11/2024,48,Female,New York,Electronics,90.13,8,23.54,114.67
+5676,6/11/2024,18,Female,Phoenix,Home Decor,201.63,3,44.17,312.67
+5677,7/11/2024,20,Male,Chicago,Fitness,485.01,1,33.41,864.09
+5678,8/11/2024,33,Female,Los Angeles,Books,136.49,9,28.96,194.73
+5679,9/11/2024,40,Female,New York,Fitness,331.8,1,10.19,410.51
+5680,10/11/2024,28,Female,Los Angeles,Home Decor,169.34,3,32.25,237.68
+5681,11/11/2024,29,Non-Binary,Los Angeles,Beauty,389,8,10.27,584.88
+5682,12/11/2024,27,Female,Chicago,Beauty,74.13,3,20.17,96.16
+5683,13/11/2024,49,Male,Philadelphia,Electronics,485.21,4,11.43,773.84
+5684,14/11/2024,33,Non-Binary,Los Angeles,Books,232.36,8,36.14,417.93
+5685,15/11/2024,25,Non-Binary,Houston,Electronics,125.66,1,14.28,184.85
+5686,16/11/2024,55,Non-Binary,Houston,Fitness,46.01,6,22.63,65
+5687,17/11/2024,29,Female,Philadelphia,Beauty,93.18,1,45.31,134.22
+5688,18/11/2024,41,Male,Philadelphia,Electronics,264.69,1,14.19,335.91
+5689,19/11/2024,45,Female,Philadelphia,Books,175.13,8,27.85,302.97
+5690,20/11/2024,25,Female,Los Angeles,Fitness,416.15,4,23.87,602.96
+5691,21/11/2024,45,Non-Binary,Houston,Home Decor,221.13,1,5.82,316.74
+5692,22/11/2024,53,Non-Binary,Phoenix,Books,131.87,7,40.67,210.44
+5693,23/11/2024,43,Female,New York,Beauty,312.4,5,8.11,457.73
+5694,24/11/2024,25,Female,Phoenix,Electronics,356.32,5,26.34,566.17
+5695,25/11/2024,45,Male,New York,Beauty,91.85,1,30.23,113.61
+5696,26/11/2024,45,Female,Houston,Books,92.13,6,33.28,155.54
+5697,27/11/2024,54,Male,Los Angeles,Home Decor,27.97,9,35.99,49.35
+5698,28/11/2024,58,Male,Philadelphia,Books,370.84,9,16.4,589.36
+5699,29/11/2024,53,Female,Los Angeles,Fitness,335.26,8,5.45,594.33
+5700,30/11/2024,44,Male,Los Angeles,Fitness,242.57,5,37.55,313.12
+5701,1/12/2024,34,Non-Binary,Los Angeles,Fitness,423.64,1,29.1,629.72
+5702,2/12/2024,26,Non-Binary,Philadelphia,Electronics,404.78,9,42.63,631.9
+5703,3/12/2024,50,Female,Chicago,Beauty,296.82,1,41.96,459.79
+5704,4/12/2024,37,Non-Binary,Los Angeles,Books,435.45,8,42.95,627.43
+5705,5/12/2024,30,Male,Philadelphia,Fitness,110.86,5,26.83,155.52
+5706,6/12/2024,45,Female,Houston,Electronics,64.84,3,20.01,82.74
+5707,7/12/2024,46,Female,Chicago,Books,142.18,7,40.62,204.03
+5708,8/12/2024,30,Male,Philadelphia,Beauty,37.97,7,25.31,49.27
+5709,9/12/2024,63,Male,Los Angeles,Home Decor,270.27,9,13.25,443.41
+5710,10/12/2024,52,Female,Chicago,Electronics,468.94,7,43.47,621.49
+5711,11/12/2024,23,Non-Binary,Phoenix,Home Decor,29.28,3,44.72,36.16
+5712,12/12/2024,35,Female,Los Angeles,Electronics,69.83,1,25.98,106.94
+5713,13/12/2024,22,Male,Philadelphia,Fitness,231.58,8,8.41,360.6
+5714,14/12/2024,64,Female,Los Angeles,Fitness,467.6,3,22.45,805.74
+5715,15/12/2024,42,Male,Phoenix,Home Decor,164.92,8,41.16,255
+5716,16/12/2024,19,Male,Houston,Beauty,258.55,8,45.58,363.85
+5717,17/12/2024,27,Non-Binary,Philadelphia,Books,30.37,5,14.16,51.08
+5718,18/12/2024,47,Male,Phoenix,Fitness,82.69,1,8.01,126.03
+5719,19/12/2024,62,Female,Los Angeles,Fitness,493.45,7,44.48,615.61
+5720,20/12/2024,22,Female,Los Angeles,Beauty,482.91,5,22.52,743.44
+5721,21/12/2024,50,Male,Philadelphia,Books,12.42,8,29.38,21.67
+5722,22/12/2024,18,Female,Chicago,Electronics,476.39,9,48.56,684.95
+5723,23/12/2024,35,Non-Binary,Phoenix,Books,323.17,7,8,445.26
+5724,24/12/2024,49,Non-Binary,Houston,Electronics,435.28,7,34.17,559.81
+5725,25/12/2024,64,Female,New York,Beauty,232.82,1,8.33,300.54
+5726,26/12/2024,28,Non-Binary,Chicago,Beauty,262.64,4,21.9,383.37
+5727,27/12/2024,38,Non-Binary,Los Angeles,Electronics,249.53,2,41.17,388.62
+5728,28/12/2024,43,Non-Binary,Philadelphia,Beauty,336.76,2,24.51,420.4
+5729,29/12/2024,42,Non-Binary,Houston,Electronics,78.43,2,49.87,138.33
+5730,30/12/2024,39,Male,Chicago,Electronics,24.69,4,30.16,40.81
+5731,31/12/2024,44,Non-Binary,Chicago,Home Decor,160.89,1,19.45,249.7
+5732,1/01/2025,30,Non-Binary,Philadelphia,Beauty,355.29,4,14.91,602.95
+5733,2/01/2025,50,Non-Binary,Houston,Books,108.91,2,20.77,135.93
+5734,3/01/2025,51,Male,Phoenix,Electronics,339.98,5,21.76,505.25
+5735,4/01/2025,58,Non-Binary,Los Angeles,Fitness,485.26,3,8.09,765.77
+5736,5/01/2025,52,Male,New York,Books,56.01,8,21.63,95.06
+5737,6/01/2025,18,Female,Phoenix,Books,339.58,4,25.89,567.13
+5738,7/01/2025,38,Non-Binary,Houston,Electronics,227.44,1,37.52,310.74
+5739,8/01/2025,23,Male,Los Angeles,Beauty,435.39,1,34.55,768.26
+5740,9/01/2025,45,Non-Binary,New York,Home Decor,96.8,3,36.89,123.38
+5741,10/01/2025,34,Non-Binary,Chicago,Beauty,349.39,9,5.38,602.73
+5742,11/01/2025,22,Non-Binary,New York,Fitness,420.68,7,14.8,749.89
+5743,12/01/2025,48,Male,Los Angeles,Home Decor,472.86,2,34.78,617.69
+5744,13/01/2025,22,Non-Binary,Los Angeles,Books,344.79,9,26.78,563.12
+5745,14/01/2025,55,Non-Binary,Houston,Books,253.62,2,5.24,310.47
+5746,15/01/2025,20,Non-Binary,Philadelphia,Fitness,312.75,3,41.2,451.38
+5747,16/01/2025,40,Male,Phoenix,Electronics,435.76,2,39.78,657.9
+5748,17/01/2025,54,Non-Binary,New York,Electronics,289.6,3,29.68,448.41
+5749,18/01/2025,54,Female,New York,Beauty,24.89,6,7.99,43.85
+5750,19/01/2025,27,Non-Binary,Phoenix,Fitness,466.16,9,39.49,747.42
+5751,20/01/2025,27,Female,Philadelphia,Beauty,347.87,9,31.27,517.9
+5752,21/01/2025,36,Male,New York,Fitness,341.49,7,40.19,575.69
+5753,22/01/2025,34,Non-Binary,Philadelphia,Books,115.68,3,38.83,204.79
+5754,23/01/2025,38,Male,New York,Home Decor,332.85,4,41.14,403.83
+5755,24/01/2025,31,Male,Philadelphia,Home Decor,202.99,6,28.31,363.25
+5756,25/01/2025,26,Male,Chicago,Beauty,329.1,5,11.31,411.93
+5757,26/01/2025,63,Female,New York,Beauty,62.23,2,35.2,105.08
+5758,27/01/2025,18,Non-Binary,Chicago,Home Decor,332.34,6,32.92,454.71
+5759,28/01/2025,62,Male,Houston,Beauty,499.71,3,38.4,639.28
+5760,29/01/2025,30,Non-Binary,Houston,Home Decor,33.62,8,12.64,49.22
+5761,30/01/2025,21,Female,Phoenix,Electronics,488.82,2,13.77,775.45
+5762,31/01/2025,18,Non-Binary,Phoenix,Fitness,209.38,1,45.07,299.11
+5763,1/02/2025,57,Male,Los Angeles,Books,436.67,9,38.75,538.3
+5764,2/02/2025,49,Male,Philadelphia,Beauty,393.37,3,45.87,613.53
+5765,3/02/2025,51,Male,Philadelphia,Books,287.84,1,39.14,501.26
+5766,4/02/2025,45,Male,Philadelphia,Home Decor,371.84,7,31.87,531.7
+5767,5/02/2025,48,Non-Binary,Chicago,Home Decor,440.47,5,34.44,585.74
+5768,6/02/2025,25,Non-Binary,Los Angeles,Fitness,208.03,5,45.01,304.88
+5769,7/02/2025,56,Female,Chicago,Fitness,170.25,1,31.05,209.24
+5770,8/02/2025,43,Female,Los Angeles,Fitness,337.12,9,33.46,570.51
+5771,9/02/2025,51,Non-Binary,Houston,Home Decor,405.84,7,12.04,688.23
+5772,10/02/2025,20,Male,Philadelphia,Fitness,383.52,8,26.33,595.53
+5773,11/02/2025,29,Non-Binary,Philadelphia,Fitness,400.93,9,37.24,566.06
+5774,12/02/2025,18,Female,Phoenix,Fitness,223.44,6,17.19,375.35
+5775,13/02/2025,61,Female,Los Angeles,Beauty,410.74,5,14.1,629.59
+5776,14/02/2025,22,Male,Chicago,Books,68.9,6,19.12,116.82
+5777,15/02/2025,47,Male,New York,Fitness,276.8,2,15.87,437.03
+5778,16/02/2025,47,Male,Los Angeles,Fitness,12.82,4,14.67,21.42
+5779,17/02/2025,34,Non-Binary,Philadelphia,Fitness,169.05,3,24.12,263.57
+5780,18/02/2025,64,Non-Binary,Houston,Electronics,189.57,7,45.85,274.59
+5781,19/02/2025,40,Male,Philadelphia,Electronics,204.12,9,27.82,362.27
+5782,20/02/2025,32,Female,Chicago,Fitness,350.78,5,13.46,534.82
+5783,21/02/2025,54,Female,Chicago,Electronics,200.39,6,8.46,313.22
+5784,22/02/2025,38,Male,Los Angeles,Fitness,229.86,2,36.33,306.24
+5785,23/02/2025,31,Non-Binary,Philadelphia,Books,126.4,3,22.23,199.13
+5786,24/02/2025,19,Male,Houston,Books,192.89,3,41.98,297.62
+5787,25/02/2025,28,Non-Binary,Chicago,Beauty,121.36,9,34.68,159.09
+5788,26/02/2025,56,Non-Binary,Chicago,Fitness,45.87,7,40.83,56.68
+5789,27/02/2025,55,Non-Binary,Houston,Beauty,305.69,8,17.24,477.68
+5790,28/02/2025,51,Male,Chicago,Books,337.42,9,36.16,559.52
+5791,1/03/2025,55,Male,Houston,Home Decor,313.55,6,16.88,474.73
+5792,2/03/2025,51,Female,Philadelphia,Books,237.11,4,47.26,316.79
+5793,3/03/2025,35,Female,Houston,Electronics,196.1,1,33.64,313.74
+5794,4/03/2025,47,Female,Phoenix,Books,433.03,8,19.6,540.45
+5795,5/03/2025,32,Non-Binary,Philadelphia,Beauty,264.35,7,17.13,387.3
+5796,6/03/2025,44,Non-Binary,Philadelphia,Electronics,244.8,2,13.59,317.76
+5797,7/03/2025,51,Non-Binary,New York,Books,22.56,8,36.26,29.57
+5798,8/03/2025,55,Male,Los Angeles,Electronics,177.21,5,14.84,234.16
+5799,9/03/2025,50,Non-Binary,New York,Books,196.3,7,31.79,281.11
+5800,10/03/2025,41,Female,New York,Fitness,205.42,4,16.91,252.81
+5801,11/03/2025,32,Non-Binary,Los Angeles,Home Decor,294.28,5,34.79,423.37
+5802,12/03/2025,47,Male,Philadelphia,Home Decor,271.47,8,41.67,409.11
+5803,13/03/2025,59,Male,Houston,Fitness,307.87,1,40.01,458.72
+5804,14/03/2025,34,Female,Philadelphia,Electronics,384.79,1,39.24,550.12
+5805,15/03/2025,22,Non-Binary,Los Angeles,Electronics,408.36,4,13.45,695.64
+5806,16/03/2025,46,Non-Binary,Los Angeles,Books,361.88,3,8.98,465.81
+5807,17/03/2025,21,Female,Chicago,Beauty,478.21,2,36.45,718.95
+5808,18/03/2025,27,Non-Binary,Los Angeles,Electronics,18.93,3,21.58,23.42
+5809,19/03/2025,34,Female,Houston,Books,105.93,1,24.46,131.64
+5810,20/03/2025,27,Non-Binary,Chicago,Home Decor,13.71,1,6.4,21.17
+5811,21/03/2025,34,Non-Binary,New York,Fitness,327.26,6,16.68,503.85
+5812,22/03/2025,37,Male,Los Angeles,Home Decor,450.03,5,6.52,777.12
+5813,23/03/2025,41,Female,Philadelphia,Books,129.31,8,44.56,198.46
+5814,24/03/2025,22,Non-Binary,Phoenix,Fitness,464.25,2,15.95,824.45
+5815,25/03/2025,51,Male,Phoenix,Books,39.53,4,30.08,48.59
+5816,26/03/2025,23,Female,Chicago,Fitness,467.87,8,6.75,588.96
+5817,27/03/2025,19,Non-Binary,Phoenix,Home Decor,182.3,6,35.01,223.58
+5818,28/03/2025,30,Female,Houston,Home Decor,59.7,1,19.54,78.28
+5819,29/03/2025,60,Female,Philadelphia,Home Decor,248.08,4,45.41,378.26
+5820,30/03/2025,60,Female,Los Angeles,Electronics,135.82,1,44.97,215.59
+5821,31/03/2025,28,Male,Houston,Beauty,149.59,2,19.64,183.6
+5822,1/04/2025,64,Female,Houston,Books,160.57,5,45.54,283.82
+5823,2/04/2025,40,Non-Binary,New York,Home Decor,403.48,8,49.83,688.05
+5824,3/04/2025,33,Female,New York,Fitness,274.19,8,42.14,377.82
+5825,4/04/2025,48,Non-Binary,Phoenix,Books,162.54,3,43.02,202.58
+5826,5/04/2025,28,Male,Philadelphia,Electronics,309.06,4,16.21,402.38
+5827,6/04/2025,33,Non-Binary,Philadelphia,Electronics,360.91,6,30.95,460.58
+5828,7/04/2025,25,Non-Binary,Los Angeles,Beauty,143.59,3,8.03,182.93
+5829,8/04/2025,21,Non-Binary,Houston,Beauty,212.64,2,9.27,321.33
+5830,9/04/2025,57,Male,Phoenix,Electronics,69.72,6,49.95,93.95
+5831,10/04/2025,21,Female,Chicago,Fitness,98.76,5,19.7,139.73
+5832,11/04/2025,42,Male,New York,Fitness,343.75,5,38.67,616.59
+5833,12/04/2025,20,Non-Binary,Los Angeles,Books,98.9,5,41.3,159.29
+5834,13/04/2025,49,Non-Binary,Chicago,Fitness,267.33,5,43.61,473.01
+5835,14/04/2025,20,Male,Houston,Electronics,357.43,3,49.89,459.49
+5836,15/04/2025,44,Female,Phoenix,Books,62.37,7,15.87,89.14
+5837,16/04/2025,46,Female,Los Angeles,Home Decor,287.98,6,6.82,441.43
+5838,17/04/2025,49,Non-Binary,Phoenix,Beauty,135.72,4,23.5,169.11
+5839,18/04/2025,36,Female,Houston,Books,481.83,2,10.85,579.41
+5840,19/04/2025,38,Non-Binary,Chicago,Fitness,246.94,9,6.01,395.66
+5841,20/04/2025,22,Male,Los Angeles,Beauty,404.94,1,21.22,641.87
+5842,21/04/2025,35,Female,Phoenix,Electronics,279.61,4,40.27,404.45
+5843,22/04/2025,45,Non-Binary,Philadelphia,Fitness,31.27,1,30.48,46.71
+5844,23/04/2025,59,Non-Binary,Philadelphia,Fitness,320.24,6,19.08,464.11
+5845,24/04/2025,39,Male,Los Angeles,Fitness,476.19,4,34.45,578.29
+5846,25/04/2025,38,Non-Binary,Houston,Books,304.79,5,15.44,427.08
+5847,26/04/2025,23,Male,Phoenix,Beauty,411.4,5,5.65,537.39
+5848,27/04/2025,18,Male,Philadelphia,Fitness,443.26,9,39.4,558.09
+5849,28/04/2025,22,Non-Binary,Los Angeles,Electronics,121.76,1,33.07,216.01
+5850,29/04/2025,58,Female,Phoenix,Beauty,113.9,2,39.3,177.64
+5851,30/04/2025,29,Non-Binary,Philadelphia,Beauty,309.38,6,6.75,506.52
+5852,1/05/2025,43,Female,Philadelphia,Beauty,211.4,5,42.67,293.68
+5853,2/05/2025,63,Female,New York,Books,421.53,7,32.88,605.27
+5854,3/05/2025,51,Non-Binary,Houston,Beauty,451.01,3,30.35,605.33
+5855,4/05/2025,31,Male,Chicago,Books,183.18,3,33.11,230.47
+5856,5/05/2025,43,Male,New York,Home Decor,126.07,2,43.9,164.83
+5857,6/05/2025,62,Male,Houston,Fitness,392.46,3,31.41,658.75
+5858,7/05/2025,44,Non-Binary,Los Angeles,Fitness,144.65,1,31.14,232.38
+5859,8/05/2025,26,Male,Phoenix,Home Decor,413.08,5,49.58,631.25
+5860,9/05/2025,43,Male,Philadelphia,Beauty,217.63,5,39.05,323.19
+5861,10/05/2025,64,Non-Binary,Phoenix,Fitness,337.1,7,24.9,591.09
+5862,11/05/2025,39,Non-Binary,Philadelphia,Fitness,56.81,4,36.83,70.65
+5863,12/05/2025,64,Male,New York,Home Decor,315.69,3,22.52,431.98
+5864,13/05/2025,47,Female,Chicago,Fitness,231.37,1,15.3,326.22
+5865,14/05/2025,60,Non-Binary,Los Angeles,Fitness,297.44,8,31.86,496.56
+5866,15/05/2025,34,Female,Chicago,Home Decor,92.33,3,46.77,165.78
+5867,16/05/2025,43,Non-Binary,Phoenix,Electronics,371.07,2,46.81,498.87
+5868,17/05/2025,53,Female,Chicago,Fitness,432.77,4,20.39,746.35
+5869,18/05/2025,18,Female,Los Angeles,Fitness,116.2,3,28.75,197.35
+5870,19/05/2025,25,Non-Binary,New York,Beauty,56.9,1,14.52,75.95
+5871,20/05/2025,52,Male,Los Angeles,Home Decor,21.58,3,49.8,31.07
+5872,21/05/2025,32,Non-Binary,New York,Beauty,324.57,2,49.15,469.26
+5873,22/05/2025,64,Non-Binary,Houston,Beauty,307.48,8,34.23,549.45
+5874,23/05/2025,39,Non-Binary,Chicago,Fitness,277.88,6,41.2,363.62
+5875,24/05/2025,31,Female,Phoenix,Beauty,123.65,9,37.18,207.67
+5876,25/05/2025,43,Non-Binary,Chicago,Electronics,201.54,8,31.69,282.26
+5877,26/05/2025,45,Male,Philadelphia,Books,301.29,3,7.4,493.67
+5878,27/05/2025,40,Male,Los Angeles,Electronics,253.42,5,25.46,367.97
+5879,28/05/2025,31,Male,Chicago,Home Decor,494.01,7,35.37,764.24
+5880,29/05/2025,41,Female,Houston,Fitness,76.86,5,35.49,130.63
+5881,30/05/2025,19,Non-Binary,Chicago,Beauty,350.62,8,21.79,589.92
+5882,31/05/2025,62,Female,Los Angeles,Books,208.12,5,47.38,357.94
+5883,1/06/2025,43,Non-Binary,Chicago,Books,219.82,1,12.53,271.65
+5884,2/06/2025,31,Female,Philadelphia,Electronics,361.62,5,27.52,584.1
+5885,3/06/2025,24,Female,Los Angeles,Fitness,349.29,4,36.09,448.49
+5886,4/06/2025,20,Non-Binary,Houston,Electronics,495.72,6,36.37,718.54
+5887,5/06/2025,64,Male,Houston,Beauty,72.91,3,34.19,111.49
+5888,6/06/2025,40,Non-Binary,Phoenix,Home Decor,61.01,5,17.39,87.95
+5889,7/06/2025,63,Non-Binary,Philadelphia,Books,364.93,2,12.03,551.69
+5890,8/06/2025,60,Female,Los Angeles,Electronics,293.41,6,33.62,527.53
+5891,9/06/2025,64,Non-Binary,Houston,Home Decor,144.34,6,31.97,184.92
+5892,10/06/2025,62,Male,Houston,Electronics,48.92,5,13.07,78.53
+5893,11/06/2025,35,Non-Binary,Phoenix,Electronics,51.97,6,36.73,74.71
+5894,12/06/2025,55,Male,Philadelphia,Beauty,448.15,7,25.48,573.55
+5895,13/06/2025,52,Non-Binary,Chicago,Home Decor,104.01,5,35.05,134.72
+5896,14/06/2025,32,Female,Houston,Beauty,168.45,1,42.68,298.08
+5897,15/06/2025,42,Female,Philadelphia,Books,121.06,8,12.64,209.16
+5898,16/06/2025,54,Non-Binary,Phoenix,Beauty,183.95,4,5.86,320.85
+5899,17/06/2025,45,Male,New York,Fitness,44.02,9,40.06,79.01
+5900,18/06/2025,27,Female,Houston,Books,264.34,6,32.44,350.25
+5901,19/06/2025,56,Male,Philadelphia,Home Decor,43.13,1,36.48,60.95
+5902,20/06/2025,34,Female,Phoenix,Home Decor,402.17,3,42.72,644.09
+5903,21/06/2025,56,Female,Phoenix,Home Decor,124.52,3,41.13,185.57
+5904,22/06/2025,39,Male,New York,Home Decor,274.61,4,48.24,398.47
+5905,23/06/2025,43,Female,New York,Home Decor,441.24,6,29.12,624.22
+5906,24/06/2025,61,Female,Chicago,Beauty,328.93,7,26.98,511.9
+5907,25/06/2025,42,Female,Los Angeles,Home Decor,271.15,4,23.08,419.02
+5908,26/06/2025,34,Female,Houston,Home Decor,168.92,6,11.92,219.07
+5909,27/06/2025,30,Male,Chicago,Beauty,173.17,1,30.77,256.82
+5910,28/06/2025,37,Non-Binary,Chicago,Books,338.05,8,17.47,517.92
+5911,29/06/2025,42,Male,Los Angeles,Home Decor,497.13,7,46.46,766.66
+5912,30/06/2025,21,Male,New York,Fitness,334.3,9,31.24,443.3
+5913,1/07/2025,27,Male,New York,Fitness,283.31,3,31.68,466.15
+5914,2/07/2025,20,Male,Phoenix,Home Decor,368.02,2,20.97,447.19
+5915,3/07/2025,58,Male,Houston,Electronics,237.95,1,7.34,336.2
+5916,4/07/2025,62,Male,Philadelphia,Beauty,39.47,3,6.43,65.84
+5917,5/07/2025,35,Female,New York,Books,285.53,5,24.05,439.24
+5918,6/07/2025,64,Non-Binary,Chicago,Home Decor,479.24,2,8.81,650.18
+5919,7/07/2025,53,Female,New York,Fitness,95.9,3,32.31,155.07
+5920,8/07/2025,64,Non-Binary,Chicago,Electronics,348.1,4,44.64,536.23
+5921,9/07/2025,39,Male,New York,Fitness,108.46,7,44.73,181.97
+5922,10/07/2025,51,Non-Binary,Houston,Home Decor,272.56,3,34.66,447.28
+5923,11/07/2025,64,Female,Phoenix,Home Decor,57.37,9,14.51,89.85
+5924,12/07/2025,25,Male,Phoenix,Beauty,230.68,8,43.83,344.38
+5925,13/07/2025,57,Non-Binary,New York,Electronics,380.52,4,44.87,487.03
+5926,14/07/2025,61,Male,Chicago,Books,180.31,1,13.85,244.64
+5927,15/07/2025,36,Female,Chicago,Books,335.81,1,38.18,487.41
+5928,16/07/2025,59,Non-Binary,New York,Beauty,399.77,1,17.89,623.47
+5929,17/07/2025,58,Male,Los Angeles,Electronics,464.32,1,41.12,700.3
+5930,18/07/2025,54,Male,Phoenix,Home Decor,124.97,8,49.88,171.57
+5931,19/07/2025,23,Male,Los Angeles,Electronics,205.66,3,6.35,247.59
+5932,20/07/2025,43,Female,Houston,Electronics,84.68,6,45.38,126.83
+5933,21/07/2025,51,Non-Binary,New York,Beauty,496.32,3,33.02,680.64
+5934,22/07/2025,62,Male,Phoenix,Beauty,464.23,5,48.8,761.69
+5935,23/07/2025,23,Male,Houston,Beauty,274.58,7,25.93,333.44
+5936,24/07/2025,54,Male,Philadelphia,Fitness,422.6,2,43.13,655.41
+5937,25/07/2025,50,Female,Chicago,Electronics,265.27,6,7.81,468.17
+5938,26/07/2025,39,Non-Binary,New York,Beauty,315.56,6,20.09,411.69
+5939,27/07/2025,38,Male,Phoenix,Electronics,53.67,3,8.02,79.59
+5940,28/07/2025,23,Non-Binary,Philadelphia,Electronics,380.08,6,48.89,476.94
+5941,29/07/2025,23,Non-Binary,Houston,Beauty,72.58,5,41.76,114.34
+5942,30/07/2025,21,Female,Philadelphia,Home Decor,414.77,2,43.36,634.73
+5943,31/07/2025,47,Non-Binary,Phoenix,Home Decor,393.19,9,47.21,567.93
+5944,1/08/2025,28,Male,Houston,Electronics,357.28,8,8.83,540.5
+5945,2/08/2025,47,Non-Binary,Houston,Books,27.72,3,22.35,48.18
+5946,3/08/2025,48,Male,Los Angeles,Fitness,158.53,8,8.2,208.91
+5947,4/08/2025,41,Male,Los Angeles,Beauty,138.93,9,14.49,168.6
+5948,5/08/2025,26,Female,Phoenix,Home Decor,186.47,3,15.32,320.17
+5949,6/08/2025,20,Female,Phoenix,Fitness,52.94,3,26.11,81.86
+5950,7/08/2025,48,Non-Binary,Houston,Fitness,469.11,2,17.09,813.62
+5951,8/08/2025,57,Non-Binary,Phoenix,Books,281.36,8,9.54,438.41
+5952,9/08/2025,54,Female,Chicago,Fitness,159.71,1,12.54,269.29
+5953,10/08/2025,53,Female,Philadelphia,Fitness,204.52,8,11.63,298.15
+5954,11/08/2025,41,Female,New York,Home Decor,229.13,7,48.79,378.05
+5955,12/08/2025,48,Female,New York,Books,304.29,7,39.17,531.85
+5956,13/08/2025,23,Female,New York,Electronics,262.68,3,48.55,405.39
+5957,14/08/2025,19,Female,Los Angeles,Books,460.5,1,24.79,602.55
+5958,15/08/2025,37,Male,Phoenix,Electronics,253.51,4,17.53,345.1
+5959,16/08/2025,45,Female,Philadelphia,Beauty,496.16,9,40.92,654.53
+5960,17/08/2025,28,Female,Houston,Fitness,427.2,5,19.68,575.91
+5961,18/08/2025,21,Male,New York,Books,112.17,1,18.47,155.23
+5962,19/08/2025,32,Non-Binary,Phoenix,Home Decor,465.99,5,15.46,714.4
+5963,20/08/2025,23,Male,Los Angeles,Fitness,67.02,8,10.84,104.07
+5964,21/08/2025,47,Non-Binary,Houston,Electronics,410.55,8,16.54,597.72
+5965,22/08/2025,55,Male,New York,Beauty,196.51,5,20.99,308.37
+5966,23/08/2025,19,Female,Chicago,Beauty,440.21,9,35.33,549.8
+5967,24/08/2025,32,Non-Binary,New York,Electronics,435.35,1,7.82,545.35
+5968,25/08/2025,28,Female,Houston,Electronics,404.9,4,14.47,527.62
+5969,26/08/2025,25,Male,Los Angeles,Fitness,397.11,3,41.41,599.97
+5970,27/08/2025,43,Male,Phoenix,Home Decor,159.29,2,11.61,211.6
+5971,28/08/2025,62,Male,Houston,Fitness,49.65,8,20.42,68.02
+5972,29/08/2025,61,Female,New York,Books,207.46,7,43.91,298.78
+5973,30/08/2025,22,Male,New York,Beauty,95.03,9,11.97,160.33
+5974,31/08/2025,23,Non-Binary,Philadelphia,Home Decor,350.53,2,8.72,423.55
+5975,1/09/2025,43,Non-Binary,Phoenix,Electronics,179.59,4,26.8,285.48
+5976,2/09/2025,21,Female,Chicago,Books,488.05,6,18.61,781.53
+5977,3/09/2025,36,Non-Binary,Philadelphia,Beauty,324.08,3,30.35,544.19
+5978,4/09/2025,37,Female,New York,Beauty,413.02,8,41.17,726.77
+5979,5/09/2025,50,Non-Binary,Los Angeles,Fitness,74.94,3,11.17,90.83
+5980,6/09/2025,37,Male,Chicago,Books,432.39,2,31.13,558.76
+5981,7/09/2025,29,Female,New York,Fitness,462.15,3,27.75,800.31
+5982,8/09/2025,64,Male,New York,Books,248.66,6,11.48,366.8
+5983,9/09/2025,18,Non-Binary,New York,Beauty,307.06,2,33.08,472.49
+5984,10/09/2025,43,Female,Philadelphia,Beauty,384.76,8,17.31,614.78
+5985,11/09/2025,31,Non-Binary,Philadelphia,Electronics,95.67,1,26.95,153.78
+5986,12/09/2025,55,Female,Philadelphia,Beauty,256.26,7,8.7,450.77
+5987,13/09/2025,54,Male,Philadelphia,Electronics,205.34,2,25.68,369.24
+5988,14/09/2025,28,Non-Binary,New York,Home Decor,81.72,6,18.79,133.37
+5989,15/09/2025,53,Male,New York,Home Decor,190.09,2,42.01,260.87
+5990,16/09/2025,30,Non-Binary,Chicago,Electronics,43.4,2,7.56,74.99
+5991,17/09/2025,60,Male,Phoenix,Home Decor,22.65,8,23.84,27.85
+5992,18/09/2025,20,Non-Binary,Chicago,Fitness,76.23,2,25.63,102.05
+5993,19/09/2025,50,Non-Binary,Philadelphia,Beauty,481.93,7,37.63,837.8
+5994,20/09/2025,23,Male,Phoenix,Electronics,279.27,3,30.84,378.05
+5995,21/09/2025,27,Non-Binary,Phoenix,Home Decor,483.25,8,35.02,643.88
+5996,22/09/2025,22,Male,Los Angeles,Fitness,221.92,7,39.97,284.7
+5997,23/09/2025,40,Female,Phoenix,Home Decor,162.79,8,43.8,279.26
+5998,24/09/2025,27,Female,Philadelphia,Fitness,258.01,7,19.12,387.02
+5999,25/09/2025,61,Male,Los Angeles,Home Decor,225.36,6,29.21,361.69
+6000,26/09/2025,19,Female,Philadelphia,Books,61.78,7,42.8,83
