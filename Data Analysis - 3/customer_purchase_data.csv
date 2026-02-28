@@ -1,0 +1,501 @@
+Customer_ID,Age,Gender,City,Product_Category,Quantity,Price,Purchase_Amount,Purchase_Date
+1,56,Male,Faisalabad,Clothing,2,356,712,24/09/2025
+2,46,Female,Lahore,Clothing,2,497,994,25/09/2025
+3,32,Male,Faisalabad,Groceries,4,267,1068,15/03/2025
+4,25,Male,Karachi,Sports,2,383,766,8/01/2025
+5,38,Male,Islamabad,Sports,5,278,1390,24/10/2025
+6,56,Male,Lahore,Clothing,1,190,190,13/06/2025
+7,36,Male,Multan,Groceries,5,169,845,26/03/2025
+8,40,Male,Karachi,Groceries,5,360,1800,13/03/2025
+9,28,Male,Faisalabad,Home Decor,2,409,818,24/02/2025
+10,28,Female,Karachi,Sports,1,297,297,16/02/2025
+11,41,Male,Lahore,Electronics,2,297,594,26/08/2025
+12,53,Male,Faisalabad,Sports,3,389,1167,14/04/2025
+13,57,Female,Islamabad,Sports,2,235,470,29/07/2025
+14,41,Female,Karachi,Home Decor,2,20,40,11/02/2025
+15,20,Female,Lahore,Electronics,2,19,38,12/11/2025
+16,39,Male,Multan,Home Decor,1,280,280,25/09/2025
+17,19,Female,Faisalabad,Electronics,2,282,564,20/09/2025
+18,41,Male,Karachi,Clothing,1,433,433,2/12/2025
+19,47,Male,Karachi,Electronics,4,411,1644,31/12/2025
+20,55,Male,Islamabad,Home Decor,3,192,576,16/09/2025
+21,19,Male,Islamabad,Sports,1,466,466,10/10/2025
+22,38,Female,Multan,Electronics,4,162,648,24/04/2025
+23,50,Female,Multan,Electronics,1,497,497,29/12/2025
+24,29,Male,Lahore,Groceries,1,324,324,9/02/2025
+25,39,Male,Lahore,Sports,3,343,1029,8/08/2025
+26,42,Male,Multan,Clothing,5,133,665,9/05/2025
+27,44,Female,Multan,Home Decor,5,482,2410,8/01/2025
+28,59,Male,Faisalabad,Clothing,1,123,123,11/04/2025
+29,45,Male,Islamabad,Sports,2,287,574,25/06/2025
+30,33,Female,Lahore,Electronics,4,423,1692,17/04/2025
+31,32,Female,Islamabad,Electronics,2,477,954,11/04/2025
+32,20,Male,Islamabad,Sports,2,222,444,17/09/2025
+33,54,Female,Multan,Electronics,1,181,181,3/09/2025
+34,24,Female,Faisalabad,Electronics,1,297,297,2/10/2025
+35,38,Male,Karachi,Electronics,1,444,444,1/02/2025
+36,26,Female,Faisalabad,Home Decor,1,183,183,17/05/2025
+37,56,Male,Faisalabad,Home Decor,5,122,610,12/01/2025
+38,35,Female,Islamabad,Groceries,1,385,385,29/10/2025
+39,21,Male,Faisalabad,Clothing,5,414,2070,16/01/2025
+40,42,Male,Lahore,Sports,5,492,2460,9/05/2025
+41,31,Male,Islamabad,Sports,1,131,131,4/03/2025
+42,26,Female,Lahore,Sports,3,41,123,19/04/2025
+43,43,Male,Karachi,Groceries,4,231,924,21/01/2025
+44,19,Female,Islamabad,Home Decor,2,128,256,7/06/2025
+45,37,Male,Karachi,Groceries,5,48,240,26/09/2025
+46,45,Male,Islamabad,Sports,4,277,1108,11/06/2025
+47,24,Female,Multan,Clothing,3,242,726,17/09/2025
+48,25,Male,Faisalabad,Electronics,2,440,880,12/04/2025
+49,52,Male,Multan,Home Decor,2,27,54,11/08/2025
+50,31,Female,Karachi,Home Decor,5,158,790,28/02/2025
+51,34,Male,Faisalabad,Groceries,1,406,406,4/09/2025
+52,53,Male,Islamabad,Home Decor,3,158,474,8/05/2025
+53,57,Male,Faisalabad,Sports,5,135,675,10/10/2025
+54,21,Male,Lahore,Sports,3,401,1203,21/11/2025
+55,19,Female,Faisalabad,Groceries,1,311,311,25/01/2025
+56,23,Female,Lahore,Sports,1,369,369,11/05/2025
+57,59,Male,Faisalabad,Clothing,5,247,1235,19/12/2025
+58,21,Female,Lahore,Groceries,1,144,144,15/07/2025
+59,46,Male,Karachi,Clothing,4,160,640,8/10/2025
+60,35,Female,Multan,Electronics,2,245,490,3/06/2025
+61,43,Male,Islamabad,Clothing,5,233,1165,13/05/2025
+62,51,Male,Faisalabad,Electronics,3,212,636,15/08/2025
+63,27,Male,Multan,Electronics,4,265,1060,8/07/2025
+64,53,Male,Islamabad,Clothing,5,95,475,22/09/2025
+65,31,Male,Islamabad,Groceries,1,159,159,14/05/2025
+66,48,Male,Lahore,Sports,1,244,244,30/07/2025
+67,32,Female,Karachi,Sports,1,354,354,1/03/2025
+68,25,Male,Karachi,Electronics,1,31,31,30/12/2025
+69,31,Female,Multan,Electronics,3,357,1071,30/12/2025
+70,40,Male,Karachi,Groceries,4,294,1176,1/08/2025
+71,57,Female,Faisalabad,Home Decor,2,278,556,4/08/2025
+72,38,Female,Karachi,Clothing,3,475,1425,14/08/2025
+73,33,Female,Multan,Electronics,3,267,801,11/05/2025
+74,35,Male,Karachi,Sports,2,38,76,17/03/2025
+75,41,Male,Faisalabad,Groceries,2,222,444,13/10/2025
+76,43,Female,Lahore,Clothing,1,472,472,4/10/2025
+77,42,Male,Multan,Groceries,3,445,1335,5/06/2025
+78,58,Female,Lahore,Clothing,5,292,1460,5/09/2025
+79,46,Male,Lahore,Clothing,2,59,118,6/08/2025
+80,32,Female,Lahore,Electronics,2,104,208,9/07/2025
+81,18,Female,Islamabad,Groceries,4,472,1888,12/06/2025
+82,42,Male,Islamabad,Groceries,5,416,2080,29/06/2025
+83,24,Female,Lahore,Sports,5,97,485,3/02/2025
+84,26,Male,Multan,Sports,2,53,106,10/02/2025
+85,41,Female,Faisalabad,Electronics,1,470,470,3/11/2025
+86,18,Female,Faisalabad,Electronics,4,287,1148,4/12/2025
+87,25,Male,Karachi,Home Decor,5,180,900,10/11/2025
+88,41,Male,Multan,Sports,2,430,860,16/03/2025
+89,28,Male,Islamabad,Clothing,5,198,990,6/10/2025
+90,34,Female,Lahore,Groceries,4,362,1448,25/06/2025
+91,25,Male,Karachi,Electronics,4,193,772,30/05/2025
+92,52,Female,Faisalabad,Groceries,3,12,36,30/09/2025
+93,52,Female,Islamabad,Groceries,2,200,400,21/11/2025
+94,50,Male,Islamabad,Home Decor,4,127,508,18/04/2025
+95,22,Male,Lahore,Sports,3,28,84,19/05/2025
+96,59,Female,Faisalabad,Electronics,3,32,96,16/12/2025
+97,56,Female,Multan,Groceries,5,422,2110,28/09/2025
+98,58,Male,Islamabad,Electronics,5,39,195,13/12/2025
+99,45,Male,Lahore,Clothing,3,304,912,16/10/2025
+100,24,Male,Multan,Home Decor,5,117,585,31/07/2025
+101,26,Male,Faisalabad,Clothing,4,376,1504,29/09/2025
+102,25,Male,Islamabad,Electronics,1,290,290,7/03/2025
+103,29,Female,Multan,Electronics,4,137,548,5/09/2025
+104,51,Female,Multan,Sports,3,238,714,5/06/2025
+105,50,Female,Multan,Groceries,3,120,360,16/02/2025
+106,40,Female,Islamabad,Groceries,4,145,580,20/07/2025
+107,41,Male,Islamabad,Clothing,5,371,1855,28/05/2025
+108,54,Male,Karachi,Home Decor,5,195,975,4/05/2025
+109,52,Male,Faisalabad,Groceries,3,153,459,1/01/2025
+110,57,Female,Lahore,Sports,2,81,162,4/09/2025
+111,39,Female,Multan,Clothing,5,138,690,9/12/2025
+112,44,Male,Karachi,Clothing,4,373,1492,8/05/2025
+113,52,Male,Lahore,Sports,5,270,1350,10/07/2025
+114,18,Female,Karachi,Home Decor,4,12,48,8/03/2025
+115,52,Female,Islamabad,Sports,3,458,1374,4/01/2025
+116,54,Male,Multan,Home Decor,5,397,1985,30/10/2025
+117,31,Male,Lahore,Sports,4,113,452,21/10/2025
+118,20,Female,Lahore,Sports,3,492,1476,23/05/2025
+119,18,Male,Lahore,Electronics,2,233,466,10/07/2025
+120,22,Male,Lahore,Clothing,4,329,1316,21/01/2025
+121,43,Male,Lahore,Sports,2,371,742,15/08/2025
+122,31,Female,Karachi,Sports,2,363,726,9/11/2025
+123,56,Female,Multan,Groceries,1,482,482,27/04/2025
+124,44,Female,Islamabad,Clothing,5,19,95,29/10/2025
+125,26,Female,Islamabad,Groceries,4,414,1656,22/05/2025
+126,32,Female,Islamabad,Clothing,2,393,786,8/02/2025
+127,32,Female,Islamabad,Groceries,1,311,311,21/12/2025
+128,43,Female,Karachi,Sports,3,240,720,9/09/2025
+129,59,Male,Faisalabad,Sports,4,228,912,29/11/2025
+130,30,Male,Multan,Electronics,2,420,840,26/07/2025
+131,49,Male,Lahore,Groceries,5,75,375,29/07/2025
+132,56,Male,Faisalabad,Home Decor,1,434,434,25/04/2025
+133,49,Male,Islamabad,Electronics,2,121,242,13/08/2025
+134,21,Male,Faisalabad,Groceries,5,22,110,14/05/2025
+135,47,Male,Multan,Groceries,2,402,804,8/09/2025
+136,54,Female,Lahore,Electronics,4,429,1716,7/08/2025
+137,40,Female,Lahore,Sports,4,95,380,1/04/2025
+138,56,Male,Multan,Groceries,4,243,972,20/12/2025
+139,32,Male,Multan,Sports,1,99,99,15/02/2025
+140,46,Female,Islamabad,Electronics,4,323,1292,7/02/2025
+141,53,Male,Lahore,Sports,5,63,315,22/05/2025
+142,30,Male,Faisalabad,Clothing,2,21,42,10/04/2025
+143,49,Female,Karachi,Home Decor,3,218,654,24/11/2025
+144,24,Male,Karachi,Groceries,5,471,2355,9/07/2025
+145,39,Female,Multan,Home Decor,5,23,115,4/02/2025
+146,45,Male,Islamabad,Sports,4,130,520,27/05/2025
+147,19,Female,Karachi,Groceries,1,427,427,30/01/2025
+148,59,Female,Lahore,Sports,2,446,892,30/11/2025
+149,23,Female,Multan,Clothing,1,386,386,25/03/2025
+150,45,Male,Faisalabad,Electronics,2,29,58,8/10/2025
+151,45,Female,Multan,Groceries,2,84,168,10/12/2025
+152,37,Male,Faisalabad,Clothing,1,409,409,27/09/2025
+153,47,Male,Multan,Clothing,5,252,1260,3/06/2025
+154,28,Male,Multan,Groceries,2,232,464,12/04/2025
+155,45,Male,Multan,Sports,1,79,79,3/08/2025
+156,42,Female,Faisalabad,Clothing,2,321,642,30/05/2025
+157,56,Female,Faisalabad,Home Decor,3,220,660,24/03/2025
+158,50,Male,Multan,Clothing,5,110,550,20/04/2025
+159,18,Male,Karachi,Sports,4,195,780,2/10/2025
+160,44,Female,Islamabad,Sports,2,141,282,20/07/2025
+161,30,Male,Islamabad,Home Decor,3,120,360,11/10/2025
+162,58,Female,Islamabad,Clothing,4,390,1560,22/06/2025
+163,20,Male,Faisalabad,Sports,4,141,564,23/11/2025
+164,56,Male,Faisalabad,Groceries,2,29,58,25/07/2025
+165,23,Female,Karachi,Electronics,1,403,403,4/03/2025
+166,25,Male,Islamabad,Electronics,2,33,66,14/03/2025
+167,44,Female,Islamabad,Electronics,3,236,708,8/09/2025
+168,26,Male,Multan,Clothing,4,163,652,4/05/2025
+169,54,Male,Faisalabad,Home Decor,2,302,604,1/05/2025
+170,50,Male,Islamabad,Sports,1,239,239,2/10/2025
+171,59,Female,Karachi,Groceries,2,478,956,30/04/2025
+172,41,Male,Karachi,Groceries,5,319,1595,13/11/2025
+173,32,Male,Islamabad,Clothing,1,497,497,13/06/2025
+174,49,Male,Faisalabad,Electronics,3,368,1104,13/10/2025
+175,49,Male,Karachi,Clothing,4,414,1656,22/09/2025
+176,41,Female,Multan,Home Decor,2,211,422,16/11/2025
+177,58,Female,Karachi,Home Decor,1,47,47,10/06/2025
+178,29,Male,Lahore,Sports,5,439,2195,4/11/2025
+179,56,Female,Lahore,Sports,1,269,269,30/03/2025
+180,19,Male,Faisalabad,Home Decor,5,197,985,22/05/2025
+181,20,Male,Islamabad,Home Decor,3,66,198,22/07/2025
+182,54,Male,Faisalabad,Home Decor,4,438,1752,5/11/2025
+183,34,Female,Faisalabad,Clothing,3,29,87,15/08/2025
+184,19,Female,Faisalabad,Home Decor,2,282,564,30/11/2025
+185,19,Female,Faisalabad,Groceries,1,128,128,10/08/2025
+186,45,Female,Multan,Electronics,5,80,400,10/02/2025
+187,40,Female,Multan,Home Decor,5,13,65,15/07/2025
+188,54,Female,Karachi,Electronics,1,230,230,9/03/2025
+189,49,Female,Lahore,Clothing,1,23,23,21/09/2025
+190,50,Female,Faisalabad,Electronics,2,12,24,2/01/2025
+191,18,Female,Karachi,Clothing,3,225,675,27/12/2025
+192,36,Male,Lahore,Groceries,5,238,1190,5/05/2025
+193,19,Female,Islamabad,Clothing,2,345,690,20/04/2025
+194,43,Female,Multan,Clothing,3,195,585,27/03/2025
+195,49,Female,Lahore,Sports,2,64,128,30/04/2025
+196,23,Female,Islamabad,Home Decor,5,397,1985,7/05/2025
+197,49,Female,Lahore,Home Decor,1,385,385,12/09/2025
+198,21,Female,Multan,Groceries,1,263,263,2/07/2025
+199,28,Female,Multan,Groceries,3,33,99,16/01/2025
+200,34,Female,Karachi,Home Decor,4,171,684,3/03/2025
+201,55,Female,Faisalabad,Sports,3,167,501,7/06/2025
+202,41,Female,Lahore,Home Decor,4,91,364,25/09/2025
+203,22,Female,Lahore,Sports,2,412,824,4/02/2025
+204,51,Male,Islamabad,Groceries,2,168,336,24/09/2025
+205,23,Male,Multan,Electronics,5,197,985,5/03/2025
+206,39,Female,Lahore,Groceries,4,69,276,19/02/2025
+207,28,Female,Multan,Groceries,5,412,2060,12/09/2025
+208,33,Male,Lahore,Clothing,1,314,314,29/05/2025
+209,50,Female,Karachi,Clothing,4,328,1312,21/11/2025
+210,26,Male,Faisalabad,Clothing,3,375,1125,31/10/2025
+211,23,Male,Lahore,Clothing,1,220,220,3/10/2025
+212,33,Male,Multan,Sports,1,415,415,23/12/2025
+213,46,Male,Karachi,Home Decor,3,161,483,21/06/2025
+214,20,Male,Lahore,Electronics,1,118,118,20/07/2025
+215,37,Female,Islamabad,Groceries,4,85,340,20/11/2025
+216,53,Male,Faisalabad,Sports,5,39,195,4/02/2025
+217,36,Female,Lahore,Electronics,1,323,323,4/08/2025
+218,43,Female,Karachi,Sports,4,495,1980,6/03/2025
+219,20,Male,Islamabad,Sports,2,126,252,8/01/2025
+220,36,Male,Karachi,Groceries,4,424,1696,28/10/2025
+221,37,Female,Karachi,Home Decor,5,365,1825,9/12/2025
+222,49,Male,Islamabad,Clothing,4,201,804,28/11/2025
+223,24,Male,Karachi,Home Decor,3,28,84,17/03/2025
+224,58,Female,Islamabad,Groceries,5,441,2205,23/06/2025
+225,50,Female,Lahore,Groceries,2,182,364,16/02/2025
+226,57,Male,Islamabad,Groceries,3,237,711,15/01/2025
+227,56,Female,Islamabad,Electronics,4,359,1436,27/12/2025
+228,35,Male,Faisalabad,Home Decor,5,192,960,27/05/2025
+229,57,Male,Islamabad,Home Decor,2,122,244,26/01/2025
+230,18,Male,Islamabad,Sports,3,192,576,4/11/2025
+231,28,Female,Lahore,Sports,2,490,980,3/04/2025
+232,45,Female,Faisalabad,Sports,4,155,620,20/08/2025
+233,42,Female,Multan,Groceries,2,328,656,21/01/2025
+234,40,Female,Lahore,Home Decor,1,125,125,3/11/2025
+235,48,Female,Lahore,Groceries,3,122,366,7/02/2025
+236,47,Male,Multan,Electronics,2,260,520,3/10/2025
+237,59,Male,Islamabad,Sports,4,485,1940,6/06/2025
+238,52,Male,Karachi,Groceries,4,260,1040,28/06/2025
+239,24,Male,Faisalabad,Groceries,2,312,624,12/05/2025
+240,33,Female,Karachi,Electronics,4,468,1872,7/11/2025
+241,43,Male,Multan,Clothing,5,322,1610,14/12/2025
+242,19,Female,Lahore,Home Decor,5,127,635,28/01/2025
+243,18,Male,Lahore,Clothing,5,310,1550,17/09/2025
+244,29,Female,Faisalabad,Sports,1,170,170,17/03/2025
+245,22,Female,Lahore,Groceries,2,410,820,8/03/2025
+246,54,Male,Lahore,Electronics,1,207,207,8/12/2025
+247,49,Male,Faisalabad,Electronics,4,269,1076,13/07/2025
+248,26,Male,Faisalabad,Home Decor,1,157,157,11/06/2025
+249,58,Male,Multan,Clothing,4,249,996,13/12/2025
+250,52,Female,Lahore,Home Decor,4,56,224,27/12/2025
+251,36,Male,Lahore,Groceries,3,484,1452,14/09/2025
+252,33,Male,Multan,Home Decor,5,408,2040,13/03/2025
+253,20,Female,Islamabad,Electronics,4,207,828,28/03/2025
+254,37,Male,Islamabad,Electronics,3,56,168,19/09/2025
+255,41,Male,Islamabad,Sports,5,87,435,2/08/2025
+256,50,Male,Multan,Sports,4,133,532,2/06/2025
+257,41,Male,Lahore,Groceries,4,84,336,29/07/2025
+258,28,Male,Multan,Clothing,1,368,368,2/03/2025
+259,25,Female,Multan,Home Decor,1,146,146,25/09/2025
+260,53,Male,Islamabad,Groceries,5,99,495,19/09/2025
+261,55,Male,Karachi,Sports,4,409,1636,6/08/2025
+262,57,Male,Lahore,Home Decor,2,334,668,10/10/2025
+263,37,Male,Islamabad,Sports,1,70,70,16/05/2025
+264,52,Male,Karachi,Home Decor,5,147,735,28/12/2025
+265,42,Female,Karachi,Clothing,4,59,236,3/04/2025
+266,52,Male,Faisalabad,Groceries,4,268,1072,19/04/2025
+267,42,Female,Lahore,Home Decor,2,470,940,29/08/2025
+268,46,Female,Karachi,Electronics,5,116,580,21/12/2025
+269,35,Male,Islamabad,Electronics,4,122,488,22/05/2025
+270,35,Male,Faisalabad,Home Decor,1,359,359,18/10/2025
+271,19,Male,Lahore,Home Decor,2,263,526,25/08/2025
+272,52,Male,Multan,Home Decor,5,127,635,6/12/2025
+273,33,Female,Islamabad,Electronics,2,207,414,8/11/2025
+274,58,Male,Karachi,Electronics,1,346,346,26/06/2025
+275,53,Male,Karachi,Home Decor,5,374,1870,21/05/2025
+276,50,Male,Islamabad,Sports,2,60,120,8/07/2025
+277,21,Male,Karachi,Sports,3,254,762,18/02/2025
+278,50,Male,Faisalabad,Clothing,1,412,412,29/10/2025
+279,31,Male,Lahore,Groceries,1,435,435,9/07/2025
+280,38,Female,Faisalabad,Sports,1,44,44,16/05/2025
+281,37,Female,Karachi,Electronics,3,311,933,12/02/2025
+282,25,Male,Multan,Sports,3,419,1257,19/12/2025
+283,24,Male,Lahore,Clothing,4,78,312,31/03/2025
+284,20,Male,Lahore,Clothing,2,358,716,22/10/2025
+285,34,Female,Islamabad,Groceries,4,329,1316,7/12/2025
+286,50,Male,Islamabad,Sports,2,430,860,2/09/2025
+287,29,Female,Multan,Electronics,3,477,1431,11/07/2025
+288,39,Male,Lahore,Electronics,3,58,174,14/11/2025
+289,39,Male,Multan,Home Decor,4,414,1656,16/04/2025
+290,47,Male,Islamabad,Electronics,5,83,415,29/12/2025
+291,55,Male,Islamabad,Groceries,4,201,804,6/11/2025
+292,55,Female,Lahore,Groceries,2,270,540,21/08/2025
+293,25,Female,Faisalabad,Electronics,4,365,1460,22/09/2025
+294,44,Male,Karachi,Electronics,1,79,79,10/12/2025
+295,44,Male,Islamabad,Home Decor,2,99,198,6/02/2025
+296,51,Female,Islamabad,Electronics,2,269,538,1/11/2025
+297,38,Female,Faisalabad,Home Decor,5,135,675,10/02/2025
+298,47,Female,Faisalabad,Home Decor,3,240,720,17/01/2025
+299,50,Female,Multan,Electronics,2,304,608,10/12/2025
+300,45,Male,Multan,Clothing,3,428,1284,4/10/2025
+301,50,Female,Karachi,Clothing,4,138,552,3/11/2025
+302,22,Male,Karachi,Home Decor,1,289,289,28/02/2025
+303,36,Female,Lahore,Electronics,5,322,1610,2/07/2025
+304,21,Female,Multan,Clothing,3,109,327,10/02/2025
+305,52,Female,Islamabad,Electronics,2,335,670,8/02/2025
+306,34,Female,Multan,Electronics,3,306,918,11/07/2025
+307,45,Female,Islamabad,Electronics,2,191,382,24/09/2025
+308,47,Male,Faisalabad,Sports,3,183,549,27/05/2025
+309,46,Male,Multan,Electronics,2,325,650,29/11/2025
+310,23,Female,Faisalabad,Sports,4,373,1492,7/05/2025
+311,52,Female,Karachi,Home Decor,2,197,394,15/02/2025
+312,58,Male,Karachi,Clothing,2,66,132,14/02/2025
+313,54,Female,Lahore,Clothing,1,40,40,1/01/2025
+314,41,Female,Multan,Clothing,2,93,186,17/06/2025
+315,46,Male,Faisalabad,Clothing,1,161,161,18/04/2025
+316,48,Female,Islamabad,Clothing,5,482,2410,19/01/2025
+317,52,Female,Karachi,Clothing,1,45,45,28/11/2025
+318,50,Male,Karachi,Clothing,4,222,888,13/03/2025
+319,38,Male,Islamabad,Home Decor,1,423,423,19/04/2025
+320,49,Male,Faisalabad,Electronics,5,417,2085,25/09/2025
+321,40,Female,Faisalabad,Groceries,4,373,1492,28/08/2025
+322,50,Male,Multan,Sports,3,115,345,28/10/2025
+323,20,Male,Multan,Groceries,3,423,1269,31/03/2025
+324,35,Male,Lahore,Groceries,1,351,351,13/04/2025
+325,42,Male,Karachi,Electronics,1,229,229,7/09/2025
+326,59,Male,Multan,Electronics,5,400,2000,8/01/2025
+327,48,Male,Faisalabad,Electronics,5,172,860,2/06/2025
+328,20,Female,Islamabad,Clothing,2,448,896,13/12/2025
+329,57,Female,Faisalabad,Home Decor,5,229,1145,23/06/2025
+330,41,Male,Karachi,Clothing,2,279,558,9/12/2025
+331,49,Male,Faisalabad,Home Decor,4,129,516,7/06/2025
+332,39,Male,Lahore,Home Decor,1,403,403,3/08/2025
+333,40,Female,Karachi,Groceries,4,345,1380,26/06/2025
+334,19,Female,Islamabad,Groceries,5,409,2045,24/06/2025
+335,44,Female,Lahore,Home Decor,4,191,764,6/12/2025
+336,59,Female,Karachi,Home Decor,4,488,1952,4/12/2025
+337,19,Female,Islamabad,Clothing,4,115,460,26/05/2025
+338,43,Female,Lahore,Clothing,5,226,1130,20/11/2025
+339,34,Female,Lahore,Groceries,4,214,856,10/06/2025
+340,57,Female,Karachi,Electronics,2,79,158,7/05/2025
+341,50,Female,Multan,Home Decor,5,53,265,23/03/2025
+342,26,Male,Lahore,Clothing,4,338,1352,27/05/2025
+343,56,Male,Lahore,Groceries,5,310,1550,27/08/2025
+344,46,Male,Islamabad,Clothing,3,237,711,25/03/2025
+345,59,Male,Faisalabad,Home Decor,2,193,386,23/04/2025
+346,43,Female,Karachi,Home Decor,4,116,464,13/08/2025
+347,52,Female,Karachi,Sports,3,93,279,28/11/2025
+348,42,Male,Multan,Electronics,3,347,1041,31/08/2025
+349,41,Female,Multan,Sports,5,259,1295,23/05/2025
+350,30,Male,Karachi,Groceries,3,372,1116,10/02/2025
+351,24,Female,Multan,Clothing,2,450,900,15/09/2025
+352,53,Male,Islamabad,Groceries,2,30,60,12/10/2025
+353,37,Female,Karachi,Home Decor,1,205,205,15/04/2025
+354,18,Female,Multan,Sports,2,187,374,21/07/2025
+355,25,Male,Karachi,Sports,3,426,1278,3/11/2025
+356,33,Female,Faisalabad,Sports,2,484,968,27/11/2025
+357,31,Male,Lahore,Groceries,5,16,80,23/09/2025
+358,29,Male,Karachi,Home Decor,1,79,79,29/07/2025
+359,40,Male,Lahore,Clothing,3,136,408,20/02/2025
+360,32,Male,Multan,Clothing,1,408,408,28/04/2025
+361,45,Female,Lahore,Groceries,3,475,1425,20/07/2025
+362,51,Female,Karachi,Sports,5,169,845,8/02/2025
+363,19,Female,Faisalabad,Electronics,1,257,257,28/01/2025
+364,49,Male,Multan,Groceries,4,212,848,16/09/2025
+365,40,Female,Karachi,Groceries,3,157,471,25/03/2025
+366,39,Male,Multan,Home Decor,4,481,1924,4/06/2025
+367,42,Female,Islamabad,Clothing,1,152,152,27/04/2025
+368,39,Female,Lahore,Groceries,4,441,1764,2/01/2025
+369,39,Female,Islamabad,Groceries,4,208,832,3/04/2025
+370,59,Male,Karachi,Sports,1,414,414,15/06/2025
+371,23,Female,Faisalabad,Sports,5,435,2175,16/12/2025
+372,32,Female,Multan,Electronics,4,163,652,23/10/2025
+373,54,Male,Lahore,Home Decor,4,385,1540,15/09/2025
+374,50,Female,Multan,Electronics,5,393,1965,22/03/2025
+375,25,Male,Karachi,Sports,4,151,604,25/09/2025
+376,22,Female,Multan,Clothing,4,322,1288,23/08/2025
+377,56,Male,Lahore,Sports,4,174,696,17/11/2025
+378,21,Male,Karachi,Home Decor,2,323,646,7/11/2025
+379,23,Female,Multan,Sports,5,30,150,28/10/2025
+380,49,Male,Faisalabad,Home Decor,4,91,364,23/12/2025
+381,47,Male,Karachi,Home Decor,5,78,390,1/08/2025
+382,52,Male,Karachi,Home Decor,3,140,420,3/03/2025
+383,57,Male,Faisalabad,Home Decor,3,96,288,18/02/2025
+384,33,Male,Islamabad,Home Decor,4,227,908,7/05/2025
+385,30,Male,Lahore,Clothing,5,430,2150,11/08/2025
+386,59,Female,Islamabad,Electronics,5,481,2405,6/10/2025
+387,47,Male,Multan,Groceries,5,314,1570,21/10/2025
+388,36,Male,Faisalabad,Electronics,2,412,824,11/10/2025
+389,34,Female,Islamabad,Home Decor,3,380,1140,4/10/2025
+390,36,Female,Karachi,Clothing,5,354,1770,17/04/2025
+391,45,Female,Multan,Sports,5,350,1750,26/05/2025
+392,43,Female,Multan,Clothing,2,393,786,9/04/2025
+393,54,Female,Islamabad,Home Decor,2,405,810,14/03/2025
+394,43,Female,Islamabad,Clothing,5,454,2270,2/05/2025
+395,40,Female,Faisalabad,Clothing,1,434,434,30/01/2025
+396,26,Male,Lahore,Home Decor,5,170,850,7/07/2025
+397,29,Male,Islamabad,Clothing,5,187,935,30/12/2025
+398,18,Female,Islamabad,Groceries,2,126,252,20/12/2025
+399,18,Male,Karachi,Groceries,2,205,410,15/10/2025
+400,51,Male,Multan,Clothing,5,392,1960,14/07/2025
+401,49,Male,Lahore,Sports,5,499,2495,5/06/2025
+402,42,Female,Karachi,Home Decor,5,336,1680,21/06/2025
+403,57,Female,Faisalabad,Groceries,2,95,190,1/12/2025
+404,18,Male,Faisalabad,Sports,5,298,1490,10/02/2025
+405,33,Female,Islamabad,Clothing,5,90,450,4/03/2025
+406,56,Male,Islamabad,Sports,4,161,644,23/01/2025
+407,22,Male,Faisalabad,Electronics,1,70,70,26/12/2025
+408,39,Male,Islamabad,Groceries,3,70,210,16/03/2025
+409,46,Male,Lahore,Clothing,1,363,363,17/02/2025
+410,20,Female,Islamabad,Home Decor,4,37,148,9/06/2025
+411,29,Female,Multan,Clothing,3,451,1353,9/11/2025
+412,43,Female,Islamabad,Home Decor,5,52,260,28/04/2025
+413,33,Male,Karachi,Clothing,4,178,712,10/04/2025
+414,54,Female,Lahore,Sports,5,432,2160,16/06/2025
+415,39,Male,Karachi,Sports,2,95,190,17/10/2025
+416,46,Female,Karachi,Sports,4,186,744,5/06/2025
+417,31,Male,Multan,Electronics,2,26,52,7/01/2025
+418,45,Male,Lahore,Home Decor,4,107,428,15/07/2025
+419,22,Male,Lahore,Sports,4,463,1852,25/02/2025
+420,47,Female,Lahore,Electronics,2,207,414,17/11/2025
+421,22,Female,Lahore,Home Decor,3,107,321,12/07/2025
+422,29,Female,Lahore,Clothing,1,74,74,16/02/2025
+423,33,Female,Multan,Electronics,5,339,1695,28/05/2025
+424,43,Male,Islamabad,Groceries,4,350,1400,2/10/2025
+425,43,Female,Karachi,Electronics,5,14,70,6/06/2025
+426,38,Female,Lahore,Electronics,2,11,22,21/07/2025
+427,56,Male,Islamabad,Home Decor,5,31,155,6/05/2025
+428,53,Male,Islamabad,Clothing,2,121,242,1/11/2025
+429,50,Male,Karachi,Groceries,5,66,330,21/10/2025
+430,47,Female,Multan,Sports,1,75,75,5/03/2025
+431,54,Male,Faisalabad,Sports,1,339,339,21/11/2025
+432,40,Male,Faisalabad,Electronics,1,107,107,25/06/2025
+433,27,Male,Islamabad,Home Decor,1,153,153,26/04/2025
+434,22,Female,Karachi,Home Decor,1,377,377,23/07/2025
+435,53,Male,Faisalabad,Sports,1,444,444,17/11/2025
+436,51,Female,Islamabad,Groceries,2,134,268,31/01/2025
+437,48,Female,Multan,Clothing,4,176,704,23/04/2025
+438,27,Male,Faisalabad,Groceries,5,95,475,31/12/2025
+439,36,Male,Islamabad,Clothing,1,85,85,21/11/2025
+440,49,Female,Islamabad,Sports,2,353,706,10/12/2025
+441,18,Male,Lahore,Clothing,2,433,866,8/03/2025
+442,22,Male,Multan,Home Decor,2,303,606,16/03/2025
+443,21,Female,Lahore,Electronics,4,453,1812,14/02/2025
+444,33,Female,Karachi,Electronics,5,68,340,17/09/2025
+445,41,Male,Lahore,Sports,4,147,588,3/06/2025
+446,33,Female,Lahore,Home Decor,3,108,324,4/06/2025
+447,19,Male,Faisalabad,Groceries,2,201,402,29/12/2025
+448,45,Male,Islamabad,Home Decor,3,252,756,22/08/2025
+449,49,Male,Multan,Electronics,1,328,328,20/02/2025
+450,44,Female,Lahore,Electronics,1,58,58,2/11/2025
+451,37,Male,Multan,Home Decor,4,457,1828,19/09/2025
+452,41,Male,Lahore,Home Decor,5,41,205,11/11/2025
+453,29,Male,Karachi,Electronics,3,400,1200,5/05/2025
+454,52,Female,Lahore,Groceries,5,286,1430,2/09/2025
+455,50,Female,Faisalabad,Sports,4,29,116,30/01/2025
+456,50,Female,Islamabad,Sports,1,163,163,2/05/2025
+457,54,Female,Karachi,Home Decor,5,392,1960,5/05/2025
+458,29,Female,Lahore,Sports,5,77,385,6/02/2025
+459,20,Male,Multan,Electronics,1,375,375,19/06/2025
+460,18,Female,Karachi,Electronics,3,381,1143,4/05/2025
+461,50,Female,Karachi,Home Decor,1,223,223,23/12/2025
+462,57,Female,Lahore,Home Decor,5,152,760,4/02/2025
+463,27,Male,Karachi,Home Decor,3,385,1155,28/03/2025
+464,46,Female,Multan,Groceries,3,241,723,14/05/2025
+465,30,Female,Karachi,Sports,1,222,222,15/07/2025
+466,29,Male,Multan,Home Decor,5,88,440,1/10/2025
+467,48,Female,Lahore,Clothing,4,223,892,20/07/2025
+468,19,Male,Islamabad,Clothing,5,125,625,12/10/2025
+469,52,Male,Karachi,Electronics,2,101,202,18/03/2025
+470,40,Male,Islamabad,Sports,4,279,1116,28/02/2025
+471,34,Male,Multan,Home Decor,3,420,1260,6/05/2025
+472,43,Male,Karachi,Clothing,4,390,1560,19/04/2025
+473,25,Female,Faisalabad,Sports,3,498,1494,12/08/2025
+474,46,Male,Islamabad,Electronics,3,177,531,5/10/2025
+475,43,Male,Karachi,Groceries,4,67,268,9/03/2025
+476,27,Female,Islamabad,Sports,3,293,879,10/03/2025
+477,43,Male,Karachi,Sports,3,35,105,14/06/2025
+478,51,Female,Lahore,Groceries,2,378,756,1/11/2025
+479,58,Female,Islamabad,Sports,5,456,2280,11/06/2025
+480,24,Female,Faisalabad,Electronics,5,75,375,31/12/2025
+481,21,Male,Faisalabad,Electronics,2,418,836,8/12/2025
+482,28,Male,Multan,Groceries,4,257,1028,5/11/2025
+483,46,Male,Karachi,Home Decor,1,263,263,9/12/2025
+484,53,Female,Islamabad,Clothing,1,396,396,11/02/2025
+485,42,Male,Multan,Home Decor,1,465,465,20/12/2025
+486,38,Male,Islamabad,Sports,2,53,106,19/04/2025
+487,53,Male,Karachi,Clothing,2,106,212,20/02/2025
+488,27,Female,Faisalabad,Groceries,3,51,153,7/09/2025
+489,54,Female,Lahore,Groceries,1,236,236,7/12/2025
+490,26,Male,Faisalabad,Clothing,4,271,1084,21/01/2025
+491,41,Male,Multan,Electronics,4,176,704,27/10/2025
+492,52,Male,Lahore,Clothing,1,445,445,19/05/2025
+493,52,Male,Multan,Sports,1,288,288,25/12/2025
+494,53,Female,Karachi,Electronics,1,98,98,20/11/2025
+495,35,Female,Lahore,Groceries,2,388,776,2/04/2025
+496,56,Female,Multan,Clothing,2,187,374,7/10/2025
+497,49,Female,Karachi,Home Decor,2,436,872,5/05/2025
+498,41,Male,Faisalabad,Home Decor,5,412,2060,21/04/2025
+499,40,Male,Karachi,Sports,4,206,824,20/12/2025
+500,49,Male,Islamabad,Home Decor,4,316,1264,19/05/2025

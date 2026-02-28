@@ -1,0 +1,61 @@
+# 🧠 Tasks (No Solutions. You suffer productively.)
+
+## 1️⃣ Basic Exploration
+
+* Show first 5 rows
+* Check data types
+* Check missing values
+* Get statistical summary
+
+---
+
+## 2️⃣ Feature Engineering
+
+* Create `Total_Spent` if not given
+* Extract month from `Purchase_Date`
+* Create age groups (18–25, 26–35, etc.)
+
+---
+
+## 3️⃣ Analysis Questions
+
+### A. Spending Behavior
+
+* What is the average spending per customer?
+* Which age group spends the most?
+* Does gender impact average purchase amount?
+
+### B. Product Insights
+
+* Which product category generates the highest revenue?
+* Which category sells the most quantity?
+* Revenue per category bar chart
+
+### C. Time Trends
+
+* Monthly revenue trend
+* Identify highest revenue month
+
+### D. Correlation
+
+* Correlation between Age and Total_Spent
+* Correlation between Quantity and Purchase_Amount
+* Interpret properly (no “correlation = causation” nonsense)
+
+---
+
+## 4️⃣ Visualization Requirements (Matplotlib Only)
+
+You must create:
+
+* Histogram of Age
+* Boxplot of Purchase_Amount by Gender
+* Bar chart of Revenue by Category
+* Line plot of Monthly Revenue
+* Scatter plot of Age vs Total_Spent
+
+Label everything properly. Titles. Axis labels. Clean layout.
+
+If your plot looks like default chaos, fix it.
+
+---
